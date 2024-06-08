@@ -72,7 +72,7 @@ options:
                         Threshold: Value between 0 to 1 by default 0.48
   -m {1,2}, --model {1,2}
                         Model: 1: Composotion based , 2: hybrid
-                        feature based ExtraTrees Classifier, by default 1
+                        feature based on Random Forest, by default 1
   -d {1,2}, --display {1,2}
                         Display: 1: il2 inducing peptides, 2: All proteins, by default 2
   -wd WORKING, --working WORKING
@@ -85,7 +85,7 @@ options:
 
 **Threshold:** User should provide threshold between 0 and 1, by default its 0.5.
 
-**Display type:** This option allow users to display only Anti-Freezing proteins or all the input proteins.
+**Display type:** This option allow users to display only il2 inducing peptides or all the input peptides.
 
 **Working Directory:** Directory where intermediate files as well as final results will be saved
 
