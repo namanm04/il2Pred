@@ -42,6 +42,9 @@ usage: il2Pred.py [-h] -i INPUT [-o OUTPUT] [-t THRESHOLD] [-m {1,2}] [-d {1,2}]
 ```
 To run the example, type the following command:
 ```
+
+unzip model.zip
+
 il2Pred.py -i peptide.fa
 
 ```
@@ -95,7 +98,7 @@ LICENSE				      : License information
 
 README.md			      : This file provide information about this package
 
-model               : This folder contains two pickled models
+model               : This is zip file, unzip this first
 
 merci               : This folder contains merci locator file
 
