@@ -1,0 +1,1495 @@
+MERCI - Summary of options:
+ -p    train_neg.fa
+ -n    train_pos.fa
+ -k 	  1000
+ -fp   5
+ -fn   0
+ -o    motifs
+ -l    10000
+ -s    10000
+ -c    BETTS-RUSSELL
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ negative hydrophobic negative hydrophobic aromatic
+ negative hydrophobic hydrophobic aromatic hydrophobic negative
+ charged aliphatic negative hydrophobic aromatic
+ negative tiny hydrophobic aromatic hydrophobic negative
+ polar charged hydrophobic E hydrophobic polar hydrophobic polar
+ negative hydrophobic hydrophobic hydrophobic polar D hydrophobic
+ polar negative hydrophobic polar hydrophobic Y
+ L charged tiny hydrophobic F
+ negative hydrophobic hydrophobic hydrophobic positive D
+ negative hydrophobic hydrophobic hydrophobic charged D
+ negative small hydrophobic aromatic hydrophobic negative hydrophobic
+ hydrophobic E hydrophobic hydrophobic hydrophobic K small
+ hydrophobic polar hydrophobic polar charged hydrophobic E hydrophobic
+ negative hydrophobic negative hydrophobic aromatic hydrophobic
+ negative hydrophobic hydrophobic aromatic hydrophobic D
+ negative tiny hydrophobic aromatic hydrophobic D
+ negative small hydrophobic F hydrophobic charged
+ negative small hydrophobic F hydrophobic negative
+ charged hydrophobic E tiny aromatic
+ polar charged hydrophobic E A polar
+ polar T hydrophobic polar L polar
+ hydrophobic negative C hydrophobic hydrophobic
+ hydrophobic polar charged hydrophobic E A
+ hydrophobic polar small aromatic hydrophobic K polar hydrophobic
+ small polar polar hydrophobic charged small aromatic hydrophobic hydrophobic
+ E A polar hydrophobic K
+ negative hydrophobic E hydrophobic aromatic
+ negative tiny hydrophobic hydrophobic polar D
+ charged aliphatic negative hydrophobic aromatic hydrophobic
+ charged aliphatic negative hydrophobic hydrophobic hydrophobic polar small
+ charged aliphatic negative tiny aromatic
+ charged D small hydrophobic aromatic
+ hydrophobic negative hydrophobic hydrophobic hydrophobic positive D
+ hydrophobic negative hydrophobic hydrophobic hydrophobic charged D
+ hydrophobic negative hydrophobic hydrophobic hydrophobic K small polar
+ hydrophobic negative hydrophobic hydrophobic hydrophobic K small hydrophobic
+ hydrophobic negative tiny hydrophobic hydrophobic K small
+ hydrophobic negative small hydrophobic F hydrophobic polar
+ hydrophobic negative small hydrophobic aromatic hydrophobic negative
+ hydrophobic F K negative
+ D hydrophobic negative hydrophobic aromatic
+ T charged hydrophobic charged A polar
+ small polar tiny polar hydrophobic polar tiny polar hydrophobic hydrophobic
+ negative aliphatic charged A polar
+ negative hydrophobic hydrophobic F polar negative
+ negative hydrophobic hydrophobic aromatic hydrophobic negative polar
+ negative hydrophobic hydrophobic aromatic hydrophobic negative hydrophobic
+ negative hydrophobic hydrophobic hydrophobic K D
+ negative C hydrophobic hydrophobic polar
+ negative tiny hydrophobic F hydrophobic small
+ negative tiny hydrophobic aromatic hydrophobic negative polar
+ negative tiny hydrophobic hydrophobic positive D
+ negative tiny hydrophobic hydrophobic charged D
+ negative small hydrophobic F polar charged
+ negative small hydrophobic F polar negative
+ negative small hydrophobic F hydrophobic D
+ charged tiny hydrophobic F charged charged
+ charged small charged charged hydrophobic small polar hydrophobic
+ charged small hydrophobic F positive charged
+ polar positive hydrophobic polar tiny positive hydrophobic
+ polar charged aliphatic negative hydrophobic aromatic
+ polar polar hydrophobic polar hydrophobic charged small hydrophobic hydrophobic positive
+ polar aliphatic polar tiny aromatic hydrophobic charged polar
+ polar aliphatic polar small aromatic hydrophobic charged polar
+ polar hydrophobic E tiny Y
+ polar hydrophobic E tiny aromatic hydrophobic
+ L charged A polar hydrophobic charged
+ aliphatic hydrophobic K D
+ K D hydrophobic polar polar
+ hydrophobic negative hydrophobic hydrophobic aromatic K
+ hydrophobic negative tiny hydrophobic aromatic hydrophobic charged
+ hydrophobic charged negative small hydrophobic aromatic
+ hydrophobic polar polar hydrophobic charged small aromatic hydrophobic hydrophobic
+ hydrophobic polar polar small charged charged hydrophobic hydrophobic polar hydrophobic
+ hydrophobic polar tiny aromatic hydrophobic K polar hydrophobic
+ hydrophobic F K D
+ hydrophobic hydrophobic polar charged small L hydrophobic hydrophobic polar
+ hydrophobic hydrophobic polar hydrophobic positive small hydrophobic hydrophobic hydrophobic small hydrophobic
+ hydrophobic D C hydrophobic hydrophobic
+ S hydrophobic small negative hydrophobic charged
+ D aliphatic charged tiny aromatic
+ D C hydrophobic hydrophobic polar
+ small hydrophobic F K negative
+ small T small charged hydrophobic charged
+ E hydrophobic hydrophobic hydrophobic polar D
+ E hydrophobic hydrophobic hydrophobic K small hydrophobic
+ negative aliphatic negative hydrophobic aromatic
+ negative aliphatic negative hydrophobic hydrophobic hydrophobic polar small
+ negative hydrophobic hydrophobic F polar D
+ negative hydrophobic hydrophobic F hydrophobic negative
+ negative hydrophobic hydrophobic aromatic polar D
+ negative tiny hydrophobic F polar charged
+ negative tiny hydrophobic F polar negative
+ negative tiny hydrophobic F hydrophobic charged
+ negative tiny hydrophobic F hydrophobic negative
+ negative tiny hydrophobic aromatic hydrophobic negative hydrophobic
+ negative small hydrophobic F hydrophobic polar polar
+ negative small hydrophobic aromatic hydrophobic D hydrophobic
+ charged aliphatic negative tiny aromatic hydrophobic
+ charged hydrophobic E small Y
+ charged hydrophobic hydrophobic F polar negative hydrophobic
+ charged tiny hydrophobic F positive charged
+ charged tiny hydrophobic F hydrophobic small small
+ charged D tiny hydrophobic aromatic
+ charged small aliphatic F hydrophobic polar
+ charged small hydrophobic F positive polar polar
+ polar charged hydrophobic negative hydrophobic aromatic hydrophobic
+ polar hydrophobic E hydrophobic hydrophobic hydrophobic positive small
+ polar hydrophobic polar tiny aromatic hydrophobic positive polar
+ polar hydrophobic polar tiny aromatic hydrophobic charged charged
+ polar hydrophobic polar small aromatic hydrophobic positive polar
+ polar hydrophobic polar small aromatic hydrophobic charged charged
+ polar hydrophobic D aliphatic E
+ polar hydrophobic T charged hydrophobic E
+ polar hydrophobic small negative hydrophobic E small
+ polar small charged aliphatic charged charged hydrophobic
+ polar small polar aliphatic E tiny
+ polar small aliphatic polar small polar hydrophobic charged polar
+ polar small aliphatic polar small aromatic hydrophobic polar polar
+ F K negative polar
+ F K D polar
+ aliphatic polar A polar hydrophobic K polar
+ hydrophobic negative hydrophobic negative hydrophobic aromatic
+ hydrophobic negative hydrophobic hydrophobic aromatic hydrophobic negative
+ hydrophobic negative hydrophobic hydrophobic hydrophobic polar D hydrophobic
+ hydrophobic negative small hydrophobic F positive polar
+ hydrophobic negative small hydrophobic F K
+ hydrophobic negative small hydrophobic aromatic positive polar
+ hydrophobic negative small hydrophobic aromatic K
+ hydrophobic charged D small hydrophobic aromatic
+ hydrophobic polar hydrophobic L F hydrophobic polar
+ hydrophobic polar tiny L F hydrophobic polar
+ hydrophobic polar small L F hydrophobic polar
+ hydrophobic F K negative hydrophobic
+ hydrophobic hydrophobic polar hydrophobic polar tiny hydrophobic aromatic hydrophobic polar
+ hydrophobic hydrophobic F K negative
+ hydrophobic hydrophobic F K D
+ hydrophobic T charged aliphatic charged hydrophobic polar
+ S small hydrophobic polar L charged hydrophobic
+ tiny polar hydrophobic polar charged charged small polar
+ tiny aromatic hydrophobic polar D tiny
+ tiny hydrophobic F K charged
+ tiny hydrophobic F K negative
+ tiny hydrophobic F K D
+ D aliphatic negative hydrophobic aromatic
+ D hydrophobic negative hydrophobic aromatic hydrophobic
+ D hydrophobic charged hydrophobic aromatic hydrophobic polar
+ T polar hydrophobic charged A polar hydrophobic
+ small charged charged small polar hydrophobic polar hydrophobic small
+ small charged aliphatic negative hydrophobic aromatic
+ small polar charged hydrophobic charged small aromatic
+ small polar polar L polar hydrophobic polar hydrophobic polar
+ small polar hydrophobic E tiny aromatic
+ small L charged small hydrophobic F
+ small hydrophobic polar D L polar hydrophobic
+ small hydrophobic F K D
+ small T G polar hydrophobic polar
+ E A polar hydrophobic charged charged
+ E tiny hydrophobic hydrophobic charged charged
+ negative hydrophobic E A polar
+ negative hydrophobic charged small aromatic aromatic
+ negative hydrophobic hydrophobic F hydrophobic D
+ negative hydrophobic hydrophobic hydrophobic positive D hydrophobic
+ negative hydrophobic hydrophobic hydrophobic charged D hydrophobic
+ negative A hydrophobic hydrophobic hydrophobic negative
+ negative tiny polar aromatic hydrophobic small
+ negative tiny hydrophobic F polar D
+ negative tiny hydrophobic F hydrophobic D
+ negative tiny hydrophobic aromatic polar D
+ negative tiny hydrophobic hydrophobic K D
+ negative tiny hydrophobic hydrophobic K small polar
+ negative small hydrophobic F positive charged
+ negative small hydrophobic F positive negative
+ negative small hydrophobic F charged charged
+ negative small hydrophobic F charged negative
+ negative small hydrophobic F polar polar polar
+ negative small hydrophobic F polar D
+ negative small hydrophobic F K charged
+ negative small hydrophobic F K negative
+ negative small hydrophobic aromatic positive charged
+ negative small hydrophobic aromatic positive negative
+ negative small hydrophobic aromatic charged charged
+ negative small hydrophobic aromatic charged negative
+ negative small hydrophobic aromatic polar D
+ negative small hydrophobic aromatic K charged
+ negative small hydrophobic aromatic K negative
+ negative small hydrophobic hydrophobic K D
+ charged hydrophobic polar hydrophobic K small small hydrophobic hydrophobic
+ charged hydrophobic polar A hydrophobic hydrophobic hydrophobic charged
+ charged tiny hydrophobic F polar charged polar
+ charged tiny hydrophobic F polar polar polar
+ charged tiny hydrophobic F polar polar small
+ charged tiny hydrophobic hydrophobic K D
+ charged small hydrophobic F positive negative
+ charged small hydrophobic F K charged
+ charged small hydrophobic F K negative
+ charged small hydrophobic aromatic K negative
+ charged small hydrophobic hydrophobic K D
+ polar negative hydrophobic E hydrophobic polar hydrophobic polar
+ polar negative C aliphatic
+ polar polar polar aliphatic charged small polar hydrophobic hydrophobic
+ polar polar hydrophobic E small Y
+ polar polar hydrophobic charged hydrophobic polar aliphatic charged
+ polar polar hydrophobic charged small positive hydrophobic charged
+ polar L charged tiny hydrophobic F
+ polar hydrophobic E A aromatic
+ polar hydrophobic negative hydrophobic E tiny
+ polar hydrophobic polar aliphatic E tiny polar
+ polar hydrophobic polar A aromatic hydrophobic hydrophobic polar
+ polar hydrophobic T charged hydrophobic negative small
+ polar tiny hydrophobic tiny G tiny
+ polar T polar polar L polar
+ polar small polar L E tiny
+ polar small hydrophobic F K charged
+ polar small hydrophobic F K negative
+ polar small T charged aliphatic charged
+ F positive polar C
+ F charged polar C
+ F polar polar C
+ aromatic aromatic K negative
+ L charged tiny hydrophobic F hydrophobic
+ L charged tiny hydrophobic hydrophobic positive
+ aliphatic charged A polar hydrophobic K
+ aliphatic charged small polar hydrophobic K charged
+ aliphatic polar tiny polar hydrophobic K charged
+ hydrophobic negative hydrophobic charged A polar hydrophobic
+ hydrophobic negative hydrophobic hydrophobic F K
+ hydrophobic negative hydrophobic hydrophobic hydrophobic K D
+ hydrophobic negative C aliphatic
+ hydrophobic negative C hydrophobic hydrophobic polar
+ hydrophobic negative tiny hydrophobic F K
+ hydrophobic negative tiny hydrophobic aromatic K
+ hydrophobic negative tiny hydrophobic aromatic hydrophobic negative
+ hydrophobic negative tiny hydrophobic hydrophobic positive D
+ hydrophobic negative tiny hydrophobic hydrophobic charged D
+ hydrophobic negative tiny hydrophobic hydrophobic polar D
+ hydrophobic charged negative tiny hydrophobic aromatic
+ hydrophobic charged small hydrophobic F charged charged
+ hydrophobic polar negative hydrophobic polar hydrophobic Y
+ hydrophobic polar aliphatic charged small hydrophobic F
+ hydrophobic polar hydrophobic polar charged hydrophobic E hydrophobic polar
+ hydrophobic polar hydrophobic polar tiny aromatic hydrophobic charged polar
+ hydrophobic polar hydrophobic polar small aromatic hydrophobic charged polar
+ hydrophobic polar D tiny hydrophobic aromatic
+ hydrophobic polar small charged aliphatic charged charged hydrophobic
+ hydrophobic polar small aliphatic F hydrophobic polar hydrophobic
+ hydrophobic F K negative polar
+ hydrophobic F K D polar
+ hydrophobic F K D hydrophobic
+ hydrophobic K D hydrophobic polar polar
+ hydrophobic hydrophobic negative hydrophobic hydrophobic hydrophobic K small
+ hydrophobic D C hydrophobic hydrophobic polar
+ S polar small polar L E small
+ S polar small polar L charged hydrophobic
+ S polar small polar aliphatic E small
+ S polar small polar hydrophobic E small
+ tiny polar hydrophobic polar aliphatic negative tiny
+ tiny aromatic hydrophobic K charged hydrophobic
+ tiny aromatic hydrophobic hydrophobic D tiny
+ tiny hydrophobic hydrophobic charged hydrophobic polar small aromatic
+ D polar hydrophobic polar hydrophobic polar hydrophobic small small
+ D aliphatic charged tiny aromatic hydrophobic
+ T charged hydrophobic E tiny polar
+ small negative hydrophobic E tiny polar
+ small polar charged hydrophobic negative hydrophobic aromatic
+ small polar aliphatic negative polar hydrophobic polar polar
+ small polar hydrophobic hydrophobic small aliphatic aromatic small
+ small L charged tiny hydrophobic F
+ small aliphatic polar tiny hydrophobic hydrophobic charged charged
+ small hydrophobic E hydrophobic hydrophobic hydrophobic K small
+ small hydrophobic polar tiny aromatic hydrophobic K
+ small T hydrophobic polar hydrophobic charged tiny polar
+ small T T polar aliphatic polar
+ small small hydrophobic polar hydrophobic charged hydrophobic aromatic hydrophobic
+ small small G tiny small L
+ E hydrophobic hydrophobic hydrophobic K small hydrophobic hydrophobic
+ E small polar aromatic hydrophobic negative
+ negative L charged A polar
+ negative aliphatic negative hydrophobic aromatic hydrophobic
+ negative aliphatic negative tiny aromatic
+ negative aliphatic charged hydrophobic aromatic hydrophobic polar
+ negative aliphatic charged hydrophobic hydrophobic hydrophobic polar small hydrophobic
+ negative hydrophobic E hydrophobic charged small
+ negative hydrophobic E tiny aromatic
+ negative hydrophobic negative hydrophobic aromatic hydrophobic polar
+ negative hydrophobic charged hydrophobic aromatic aromatic
+ negative hydrophobic hydrophobic F positive negative
+ negative hydrophobic hydrophobic F positive D
+ negative hydrophobic hydrophobic F charged negative
+ negative hydrophobic hydrophobic F charged D
+ negative hydrophobic hydrophobic F K negative
+ negative hydrophobic hydrophobic F K small
+ negative hydrophobic hydrophobic F K D
+ negative hydrophobic hydrophobic aromatic positive negative
+ negative hydrophobic hydrophobic aromatic positive D
+ negative hydrophobic hydrophobic aromatic charged negative
+ negative hydrophobic hydrophobic aromatic charged D
+ negative hydrophobic hydrophobic aromatic K negative
+ negative hydrophobic hydrophobic aromatic K D
+ negative hydrophobic hydrophobic aromatic hydrophobic D polar
+ negative hydrophobic hydrophobic aromatic hydrophobic D hydrophobic
+ negative hydrophobic hydrophobic hydrophobic positive negative polar
+ negative hydrophobic hydrophobic hydrophobic K D hydrophobic
+ negative A aromatic F
+ negative A hydrophobic F
+ negative tiny aromatic F
+ negative tiny hydrophobic F positive charged
+ negative tiny hydrophobic F positive negative
+ negative tiny hydrophobic F positive D
+ negative tiny hydrophobic F charged charged
+ negative tiny hydrophobic F charged negative
+ negative tiny hydrophobic F charged D
+ negative tiny hydrophobic F K charged
+ negative tiny hydrophobic F K negative
+ negative tiny hydrophobic F K small
+ negative tiny hydrophobic F K D
+ negative tiny hydrophobic aromatic positive charged
+ negative tiny hydrophobic aromatic positive negative
+ negative tiny hydrophobic aromatic positive D
+ negative tiny hydrophobic aromatic charged charged
+ negative tiny hydrophobic aromatic charged negative
+ negative tiny hydrophobic aromatic charged D
+ negative tiny hydrophobic aromatic K charged
+ negative tiny hydrophobic aromatic K negative
+ negative tiny hydrophobic aromatic K small
+ negative tiny hydrophobic aromatic K D
+ negative tiny hydrophobic aromatic hydrophobic D polar
+ negative tiny hydrophobic aromatic hydrophobic D hydrophobic
+ negative tiny hydrophobic hydrophobic positive negative polar
+ negative small aromatic aromatic hydrophobic small small
+ negative small hydrophobic F positive polar polar
+ negative small hydrophobic F positive D
+ negative small hydrophobic F charged polar polar
+ negative small hydrophobic F charged D
+ negative small hydrophobic F K small
+ negative small hydrophobic F K D
+ negative small hydrophobic F hydrophobic negative hydrophobic
+ negative small hydrophobic F hydrophobic charged hydrophobic
+ negative small hydrophobic aromatic positive polar polar
+ negative small hydrophobic aromatic positive D
+ negative small hydrophobic aromatic charged D
+ negative small hydrophobic aromatic K small
+ negative small hydrophobic aromatic K D
+ charged aliphatic E hydrophobic aromatic
+ charged aliphatic negative hydrophobic aromatic hydrophobic polar
+ charged aliphatic negative hydrophobic hydrophobic hydrophobic polar small hydrophobic
+ charged aliphatic charged hydrophobic aromatic hydrophobic polar polar
+ charged hydrophobic E hydrophobic polar hydrophobic polar small
+ charged hydrophobic E tiny Y
+ charged hydrophobic negative small aromatic aromatic
+ charged hydrophobic hydrophobic F positive negative
+ charged hydrophobic hydrophobic F positive D
+ charged hydrophobic hydrophobic F charged negative
+ charged hydrophobic hydrophobic F charged D
+ charged hydrophobic hydrophobic F K negative
+ charged hydrophobic hydrophobic F K D
+ charged A aromatic F
+ charged tiny aliphatic F hydrophobic polar
+ charged tiny aliphatic hydrophobic hydrophobic negative polar
+ charged tiny hydrophobic F positive negative
+ charged tiny hydrophobic F positive D
+ charged tiny hydrophobic F charged negative
+ charged tiny hydrophobic F charged charged polar
+ charged tiny hydrophobic F charged polar polar
+ charged tiny hydrophobic F charged D
+ charged tiny hydrophobic F K charged
+ charged tiny hydrophobic F K negative
+ charged tiny hydrophobic F K D
+ charged tiny hydrophobic F hydrophobic polar polar
+ charged tiny hydrophobic aromatic K negative
+ charged tiny hydrophobic aromatic K D
+ charged tiny hydrophobic aromatic hydrophobic D hydrophobic
+ charged small hydrophobic F positive charged hydrophobic
+ charged small hydrophobic F positive D
+ charged small hydrophobic F charged D
+ charged small hydrophobic F K D
+ charged small hydrophobic aromatic K D
+ charged small small aliphatic F hydrophobic
+ polar negative hydrophobic negative hydrophobic aromatic
+ polar L E A polar
+ polar L negative A polar hydrophobic
+ polar aliphatic E A polar
+ polar hydrophobic E A polar hydrophobic charged
+ polar hydrophobic E tiny polar hydrophobic charged
+ polar hydrophobic polar charged hydrophobic E A
+ polar hydrophobic polar L E tiny polar
+ polar hydrophobic polar hydrophobic charged small hydrophobic hydrophobic positive polar
+ polar hydrophobic polar hydrophobic polar hydrophobic polar negative tiny
+ polar hydrophobic polar hydrophobic polar tiny aromatic hydrophobic polar
+ polar hydrophobic polar tiny aromatic hydrophobic charged polar hydrophobic
+ polar hydrophobic polar tiny small tiny hydrophobic tiny hydrophobic
+ polar hydrophobic polar small aromatic hydrophobic charged polar hydrophobic
+ polar hydrophobic hydrophobic F K negative
+ polar hydrophobic hydrophobic F K D
+ polar hydrophobic T charged hydrophobic E small
+ polar hydrophobic T charged hydrophobic negative hydrophobic
+ polar A aromatic aromatic hydrophobic polar
+ polar tiny hydrophobic F K charged
+ polar tiny hydrophobic F K negative
+ polar tiny hydrophobic F K D
+ polar D aromatic negative
+ polar T D aliphatic polar
+ polar T small negative hydrophobic charged
+ polar small hydrophobic F K D
+ polar small small polar L polar tiny polar
+ polar small small polar hydrophobic polar hydrophobic polar polar small hydrophobic hydrophobic
+ Y hydrophobic positive charged hydrophobic aliphatic
+ Y hydrophobic charged charged hydrophobic aliphatic
+ aromatic charged negative C
+ aromatic polar negative C
+ L E A polar hydrophobic charged
+ L E tiny polar hydrophobic charged
+ L E small hydrophobic hydrophobic K
+ L negative A polar hydrophobic charged
+ L negative tiny polar hydrophobic charged
+ L charged A hydrophobic hydrophobic positive
+ L charged tiny polar hydrophobic K
+ L polar tiny polar hydrophobic positive charged
+ L polar small polar hydrophobic charged negative
+ L hydrophobic positive D
+ L hydrophobic small small tiny aromatic
+ aliphatic E A polar hydrophobic charged
+ aliphatic charged A polar hydrophobic charged small
+ aliphatic polar A hydrophobic hydrophobic K
+ aliphatic polar tiny polar hydrophobic K polar hydrophobic
+ aliphatic polar tiny aromatic hydrophobic K
+ aliphatic polar small polar hydrophobic K charged hydrophobic
+ hydrophobic negative charged aliphatic small charged
+ hydrophobic negative hydrophobic hydrophobic aromatic positive polar
+ hydrophobic negative hydrophobic hydrophobic aromatic charged polar
+ hydrophobic negative hydrophobic hydrophobic aromatic K polar
+ hydrophobic negative hydrophobic hydrophobic aromatic K small
+ hydrophobic negative tiny hydrophobic F hydrophobic small
+ hydrophobic negative small hydrophobic F hydrophobic charged
+ hydrophobic negative small hydrophobic F hydrophobic negative
+ hydrophobic negative small hydrophobic F hydrophobic polar hydrophobic
+ hydrophobic negative small hydrophobic aromatic hydrophobic negative hydrophobic
+ hydrophobic charged aliphatic negative hydrophobic aromatic
+ hydrophobic charged hydrophobic E A polar
+ hydrophobic charged hydrophobic E tiny aromatic
+ hydrophobic charged tiny hydrophobic F charged charged
+ hydrophobic charged tiny hydrophobic F polar charged
+ hydrophobic charged D tiny hydrophobic aromatic
+ hydrophobic charged small hydrophobic F positive charged
+ hydrophobic charged small hydrophobic F positive polar hydrophobic
+ hydrophobic charged small hydrophobic F charged polar polar
+ hydrophobic charged small hydrophobic F polar polar polar
+ hydrophobic polar charged hydrophobic E A polar
+ hydrophobic polar polar positive small polar hydrophobic hydrophobic aliphatic
+ hydrophobic polar polar hydrophobic E A polar
+ hydrophobic polar polar hydrophobic negative hydrophobic polar hydrophobic aromatic
+ hydrophobic hydrophobic charged charged tiny hydrophobic hydrophobic positive
+ hydrophobic hydrophobic charged charged small L hydrophobic hydrophobic polar
+ hydrophobic hydrophobic polar hydrophobic E A polar
+ hydrophobic hydrophobic K negative hydrophobic polar polar
+ hydrophobic hydrophobic V hydrophobic aliphatic hydrophobic aliphatic
+ hydrophobic G hydrophobic small tiny charged
+ hydrophobic T charged hydrophobic E tiny
+ hydrophobic T charged hydrophobic charged A polar
+ hydrophobic T polar hydrophobic charged A polar
+ hydrophobic small aliphatic charged small hydrophobic F
+ hydrophobic small aliphatic hydrophobic small hydrophobic hydrophobic charged charged
+ hydrophobic small small aliphatic aromatic hydrophobic charged hydrophobic
+ A aromatic aromatic polar charged
+ A hydrophobic polar small polar hydrophobic negative
+ A hydrophobic hydrophobic hydrophobic D polar hydrophobic
+ S polar hydrophobic polar L E small
+ S polar hydrophobic polar L charged hydrophobic
+ S polar hydrophobic polar aliphatic E small
+ S hydrophobic small negative hydrophobic negative
+ S small hydrophobic polar L polar hydrophobic polar
+ S small small polar L charged hydrophobic
+ tiny polar small small L E small
+ D aliphatic negative hydrophobic aromatic hydrophobic
+ D aliphatic negative hydrophobic hydrophobic hydrophobic polar small
+ D aliphatic negative tiny aromatic
+ D aliphatic charged hydrophobic aromatic hydrophobic polar
+ D hydrophobic negative hydrophobic aromatic hydrophobic polar
+ D hydrophobic negative tiny aromatic
+ D hydrophobic negative small aromatic hydrophobic
+ D hydrophobic charged small aromatic hydrophobic polar
+ D tiny aliphatic aromatic hydrophobic
+ D small hydrophobic aromatic hydrophobic charged
+ T charged hydrophobic charged A polar hydrophobic
+ T polar hydrophobic E A polar
+ T small hydrophobic polar hydrophobic Y
+ small charged aliphatic negative tiny aromatic
+ small charged aliphatic charged charged hydrophobic polar
+ small polar negative hydrophobic charged hydrophobic aromatic
+ small polar charged hydrophobic charged hydrophobic aromatic hydrophobic
+ small polar charged hydrophobic charged small aromatic hydrophobic
+ small polar polar hydrophobic E hydrophobic aromatic
+ small polar L E tiny polar
+ small polar hydrophobic hydrophobic polar charged polar E
+ small polar D L polar A
+ small aliphatic polar tiny aromatic hydrophobic charged polar
+ small hydrophobic negative hydrophobic charged hydrophobic polar hydrophobic hydrophobic
+ small hydrophobic charged tiny hydrophobic aromatic hydrophobic small
+ small hydrophobic polar small L aromatic hydrophobic hydrophobic
+ small hydrophobic F K negative hydrophobic
+ small hydrophobic D hydrophobic E hydrophobic
+ small A hydrophobic polar hydrophobic charged hydrophobic polar
+ small tiny polar polar hydrophobic polar hydrophobic charged hydrophobic
+ small small G tiny polar aliphatic
+ E hydrophobic polar aromatic hydrophobic negative
+ E hydrophobic polar hydrophobic positive negative
+ E hydrophobic polar hydrophobic polar small hydrophobic aliphatic hydrophobic
+ E A polar hydrophobic positive polar
+ E A polar hydrophobic positive charged
+ E A hydrophobic hydrophobic charged charged
+ E tiny polar aromatic hydrophobic negative
+ E tiny polar hydrophobic positive charged
+ E tiny polar hydrophobic polar small hydrophobic aliphatic
+ E tiny polar hydrophobic polar small small aliphatic
+ E tiny aromatic hydrophobic polar charged
+ E tiny hydrophobic hydrophobic charged negative
+ negative aliphatic charged A polar hydrophobic
+ negative aliphatic charged tiny hydrophobic hydrophobic positive
+ negative aliphatic small hydrophobic hydrophobic polar charged
+ negative hydrophobic E tiny polar hydrophobic polar
+ negative hydrophobic E small aromatic hydrophobic
+ negative hydrophobic negative small aromatic hydrophobic polar
+ negative hydrophobic polar aromatic hydrophobic negative
+ negative hydrophobic hydrophobic F polar negative polar
+ negative hydrophobic hydrophobic F polar charged polar
+ negative hydrophobic hydrophobic F polar polar polar
+ negative hydrophobic hydrophobic F hydrophobic polar polar
+ negative hydrophobic hydrophobic hydrophobic positive D polar
+ negative hydrophobic hydrophobic hydrophobic charged D polar
+ negative C hydrophobic hydrophobic polar polar
+ negative tiny polar aromatic hydrophobic negative
+ negative tiny polar hydrophobic polar small hydrophobic aliphatic
+ negative tiny polar hydrophobic polar small small aliphatic
+ negative tiny aliphatic hydrophobic hydrophobic negative polar
+ negative tiny aliphatic hydrophobic hydrophobic charged polar
+ negative tiny hydrophobic F hydrophobic polar polar
+ negative tiny hydrophobic hydrophobic positive D polar
+ negative tiny hydrophobic hydrophobic charged D polar
+ negative tiny hydrophobic hydrophobic polar D polar
+ negative small polar hydrophobic charged small small aliphatic
+ negative small aromatic aromatic polar small
+ negative small hydrophobic F hydrophobic D hydrophobic
+ negative small hydrophobic hydrophobic positive D polar
+ negative small hydrophobic hydrophobic charged D polar
+ negative small hydrophobic hydrophobic polar D polar
+ charged polar hydrophobic polar hydrophobic charged hydrophobic hydrophobic polar hydrophobic polar
+ charged polar hydrophobic small hydrophobic hydrophobic tiny hydrophobic small charged
+ charged L polar tiny Y
+ charged aliphatic negative A polar hydrophobic
+ charged aliphatic charged A Y
+ charged aliphatic polar A Y
+ charged aliphatic polar tiny aromatic hydrophobic charged polar
+ charged aliphatic polar small aromatic hydrophobic charged polar
+ charged hydrophobic E hydrophobic Y
+ charged hydrophobic polar hydrophobic charged small hydrophobic hydrophobic hydrophobic polar polar
+ charged hydrophobic polar A polar hydrophobic polar charged
+ charged hydrophobic L F hydrophobic polar
+ charged hydrophobic hydrophobic F polar negative polar
+ charged A aromatic hydrophobic hydrophobic negative
+ charged tiny polar hydrophobic polar hydrophobic polar hydrophobic aliphatic
+ charged tiny polar hydrophobic K small hydrophobic hydrophobic hydrophobic
+ charged tiny polar hydrophobic K small small hydrophobic hydrophobic
+ charged tiny Y F
+ charged tiny L F hydrophobic polar
+ charged tiny hydrophobic F positive charged polar
+ charged tiny hydrophobic F positive charged hydrophobic
+ charged tiny hydrophobic F positive polar polar
+ charged tiny hydrophobic F charged charged hydrophobic
+ charged tiny hydrophobic F polar charged hydrophobic
+ charged tiny hydrophobic F hydrophobic small polar
+ charged small L F hydrophobic polar
+ charged small hydrophobic F positive charged polar
+ charged small hydrophobic F hydrophobic D hydrophobic
+ charged small tiny aliphatic aromatic hydrophobic
+ polar negative hydrophobic E A polar
+ polar charged hydrophobic negative tiny hydrophobic aromatic
+ polar charged hydrophobic charged small polar hydrophobic charged charged
+ polar polar negative hydrophobic negative A
+ polar polar charged aliphatic negative tiny polar
+ polar polar charged hydrophobic negative hydrophobic aromatic
+ polar polar polar aliphatic E tiny polar
+ polar polar polar hydrophobic charged tiny polar hydrophobic charged
+ polar polar polar hydrophobic charged small polar hydrophobic charged polar
+ polar polar hydrophobic negative A hydrophobic aromatic
+ polar polar T polar aliphatic negative
+ polar polar small L F
+ polar polar small aliphatic negative A hydrophobic
+ polar polar small hydrophobic polar tiny aromatic hydrophobic polar
+ polar L charged tiny polar hydrophobic positive
+ polar aliphatic negative A polar hydrophobic hydrophobic
+ polar aliphatic charged A polar hydrophobic positive
+ polar aliphatic charged A polar hydrophobic charged polar
+ polar aliphatic charged A hydrophobic hydrophobic positive
+ polar aliphatic charged tiny aromatic hydrophobic charged
+ polar aliphatic charged tiny aromatic hydrophobic positive
+ polar aliphatic charged small aromatic hydrophobic charged
+ polar aliphatic charged small aromatic hydrophobic positive
+ polar aliphatic hydrophobic K D
+ polar hydrophobic E A charged
+ polar hydrophobic E A aromatic hydrophobic
+ polar hydrophobic negative hydrophobic E tiny polar
+ polar hydrophobic negative tiny hydrophobic hydrophobic hydrophobic charged polar
+ polar hydrophobic charged hydrophobic E hydrophobic aromatic
+ polar hydrophobic charged hydrophobic negative hydrophobic aromatic
+ polar hydrophobic charged hydrophobic polar tiny hydrophobic hydrophobic positive
+ polar hydrophobic polar L polar small hydrophobic hydrophobic charged
+ polar hydrophobic polar hydrophobic charged polar hydrophobic hydrophobic hydrophobic polar charged
+ polar hydrophobic polar hydrophobic charged small hydrophobic hydrophobic hydrophobic polar charged
+ polar hydrophobic polar A polar hydrophobic charged charged hydrophobic
+ polar hydrophobic polar tiny aromatic hydrophobic K polar
+ polar hydrophobic polar small charged G polar polar
+ polar hydrophobic polar small aromatic hydrophobic K polar
+ polar hydrophobic small polar negative hydrophobic polar polar hydrophobic
+ polar tiny polar aliphatic charged charged hydrophobic
+ polar tiny polar hydrophobic polar polar polar hydrophobic aromatic
+ polar tiny polar hydrophobic polar small hydrophobic hydrophobic hydrophobic positive
+ polar tiny hydrophobic tiny tiny A hydrophobic
+ polar D hydrophobic polar hydrophobic Y
+ polar D hydrophobic T small
+ polar T hydrophobic negative aliphatic polar
+ polar T D aliphatic charged
+ polar small polar aliphatic E tiny polar
+ polar small polar aliphatic negative charged hydrophobic
+ polar small aliphatic polar small polar hydrophobic positive polar
+ polar small hydrophobic hydrophobic positive hydrophobic polar tiny polar
+ polar small T negative hydrophobic charged
+ polar small small L F
+ F positive charged hydrophobic aliphatic
+ F polar polar small hydrophobic F
+ Y hydrophobic charged negative polar aliphatic
+ Y hydrophobic charged charged polar aliphatic
+ Y hydrophobic K small polar aliphatic
+ aromatic aromatic positive negative small
+ aromatic aromatic positive negative tiny
+ aromatic aromatic K negative hydrophobic
+ aromatic aromatic K negative small
+ aromatic aromatic K negative tiny
+ aromatic hydrophobic positive negative hydrophobic aliphatic
+ aromatic hydrophobic negative C
+ aromatic hydrophobic charged tiny hydrophobic F
+ aromatic hydrophobic polar tiny hydrophobic F
+ L E hydrophobic hydrophobic hydrophobic polar small hydrophobic
+ L E hydrophobic hydrophobic hydrophobic K
+ L negative hydrophobic hydrophobic hydrophobic positive small
+ L negative hydrophobic hydrophobic hydrophobic K
+ L charged A polar hydrophobic positive
+ aliphatic charged A polar hydrophobic charged polar hydrophobic
+ aliphatic charged A polar hydrophobic K polar
+ aliphatic charged small polar hydrophobic K negative
+ aliphatic polar polar charged small hydrophobic hydrophobic hydrophobic small hydrophobic
+ aliphatic polar polar charged small hydrophobic small hydrophobic small hydrophobic
+ aliphatic polar A polar hydrophobic positive polar hydrophobic
+ aliphatic polar A polar hydrophobic K charged
+ aliphatic polar small polar hydrophobic K negative
+ aliphatic polar small aromatic hydrophobic K polar
+ aliphatic hydrophobic K D hydrophobic
+ aliphatic hydrophobic hydrophobic small hydrophobic hydrophobic polar hydrophobic charged hydrophobic
+ aliphatic small hydrophobic aliphatic hydrophobic aliphatic polar polar
+ K charged polar hydrophobic hydrophobic K
+ K polar polar polar polar small charged
+ K D hydrophobic L
+ hydrophobic positive D hydrophobic polar charged
+ hydrophobic E A polar hydrophobic K
+ hydrophobic E tiny polar hydrophobic charged polar
+ hydrophobic negative hydrophobic E hydrophobic aromatic
+ hydrophobic negative hydrophobic hydrophobic hydrophobic positive D hydrophobic
+ hydrophobic negative hydrophobic hydrophobic hydrophobic charged D hydrophobic
+ hydrophobic negative A polar aromatic
+ hydrophobic negative tiny hydrophobic F hydrophobic polar
+ hydrophobic negative tiny hydrophobic aromatic hydrophobic charged polar
+ hydrophobic negative tiny hydrophobic hydrophobic K D
+ hydrophobic negative tiny hydrophobic hydrophobic K small polar
+ hydrophobic negative small hydrophobic F positive charged
+ hydrophobic negative small hydrophobic F positive negative
+ hydrophobic negative small hydrophobic F positive polar hydrophobic
+ hydrophobic negative small hydrophobic F charged charged
+ hydrophobic negative small hydrophobic F charged negative
+ hydrophobic negative small hydrophobic F polar charged
+ hydrophobic negative small hydrophobic F polar negative
+ hydrophobic negative small hydrophobic F K polar
+ hydrophobic negative small hydrophobic F K charged
+ hydrophobic negative small hydrophobic F K negative
+ hydrophobic negative small hydrophobic F hydrophobic polar polar
+ hydrophobic negative small hydrophobic F hydrophobic D
+ hydrophobic negative small hydrophobic aromatic positive charged
+ hydrophobic negative small hydrophobic aromatic positive negative
+ hydrophobic negative small hydrophobic aromatic positive polar hydrophobic
+ hydrophobic negative small hydrophobic aromatic charged charged
+ hydrophobic negative small hydrophobic aromatic charged negative
+ hydrophobic negative small hydrophobic aromatic charged polar polar
+ hydrophobic negative small hydrophobic aromatic K polar
+ hydrophobic negative small hydrophobic aromatic K charged
+ hydrophobic negative small hydrophobic aromatic K negative
+ hydrophobic negative small hydrophobic aromatic hydrophobic D
+ hydrophobic negative small hydrophobic hydrophobic K D
+ hydrophobic charged hydrophobic charged small aromatic aromatic
+ hydrophobic charged tiny hydrophobic F positive charged
+ hydrophobic charged tiny hydrophobic hydrophobic K D
+ hydrophobic charged small hydrophobic F positive negative
+ hydrophobic charged small hydrophobic F positive polar polar
+ hydrophobic charged small hydrophobic F charged negative
+ hydrophobic charged small hydrophobic F K charged
+ hydrophobic charged small hydrophobic F K negative
+ hydrophobic charged small hydrophobic F hydrophobic D
+ hydrophobic charged small hydrophobic aromatic K negative
+ hydrophobic charged small hydrophobic hydrophobic K D
+ hydrophobic polar negative hydrophobic E A
+ hydrophobic polar negative hydrophobic polar small Y
+ hydrophobic polar charged hydrophobic E hydrophobic polar hydrophobic polar
+ hydrophobic polar charged hydrophobic charged hydrophobic aromatic hydrophobic hydrophobic
+ hydrophobic polar polar hydrophobic negative hydrophobic E hydrophobic
+ hydrophobic polar polar hydrophobic charged hydrophobic E hydrophobic hydrophobic
+ hydrophobic polar polar hydrophobic charged hydrophobic negative hydrophobic polar
+ hydrophobic polar polar hydrophobic charged small polar hydrophobic charged charged
+ hydrophobic polar L charged hydrophobic hydrophobic hydrophobic positive
+ hydrophobic polar hydrophobic L F hydrophobic polar hydrophobic
+ hydrophobic polar tiny L F hydrophobic polar hydrophobic
+ hydrophobic polar tiny aliphatic F hydrophobic polar hydrophobic
+ hydrophobic polar tiny hydrophobic hydrophobic polar charged hydrophobic polar charged
+ hydrophobic polar small polar polar L polar A
+ hydrophobic polar small L F hydrophobic polar hydrophobic
+ hydrophobic polar small hydrophobic F K charged
+ hydrophobic polar small hydrophobic F K negative
+ hydrophobic F positive polar C
+ hydrophobic F charged polar C
+ hydrophobic F polar polar C
+ hydrophobic aromatic K negative tiny
+ hydrophobic K negative tiny aliphatic
+ hydrophobic K negative tiny L
+ hydrophobic hydrophobic positive charged tiny hydrophobic hydrophobic positive
+ hydrophobic hydrophobic polar hydrophobic hydrophobic polar L charged hydrophobic
+ hydrophobic hydrophobic polar small polar negative hydrophobic polar hydrophobic hydrophobic
+ hydrophobic hydrophobic F K negative polar
+ hydrophobic hydrophobic F K negative hydrophobic
+ hydrophobic hydrophobic F K D polar
+ hydrophobic hydrophobic F K D hydrophobic
+ hydrophobic hydrophobic K polar polar L hydrophobic hydrophobic small
+ hydrophobic A hydrophobic tiny tiny A
+ hydrophobic small aliphatic charged A aromatic
+ hydrophobic small aliphatic hydrophobic L polar aliphatic
+ hydrophobic small tiny L hydrophobic hydrophobic charged hydrophobic
+ hydrophobic small V polar aliphatic hydrophobic small
+ A aromatic F hydrophobic polar
+ A aromatic hydrophobic hydrophobic D
+ A hydrophobic hydrophobic charged D small
+ S polar hydrophobic polar aliphatic negative hydrophobic
+ S hydrophobic small negative hydrophobic E
+ S T hydrophobic charged hydrophobic charged
+ S small hydrophobic small L polar hydrophobic polar
+ tiny polar polar polar aliphatic negative tiny
+ tiny polar L small charged polar small
+ tiny polar hydrophobic polar L E tiny
+ tiny polar hydrophobic polar L negative tiny
+ tiny polar hydrophobic polar aliphatic E tiny
+ tiny polar hydrophobic polar hydrophobic charged small aromatic
+ tiny hydrophobic F K negative polar
+ tiny hydrophobic F K negative hydrophobic
+ tiny hydrophobic F K charged polar
+ tiny hydrophobic F K charged hydrophobic
+ tiny hydrophobic F K polar polar
+ tiny hydrophobic F K D polar
+ tiny hydrophobic F K D hydrophobic
+ tiny hydrophobic aromatic K negative polar
+ tiny hydrophobic aromatic K D polar
+ tiny hydrophobic small small aliphatic L hydrophobic
+ tiny T small charged hydrophobic charged
+ tiny T small charged hydrophobic polar hydrophobic
+ tiny small polar polar hydrophobic polar hydrophobic charged hydrophobic hydrophobic
+ D L polar A polar
+ D aliphatic charged tiny hydrophobic hydrophobic positive
+ D aliphatic polar hydrophobic Y
+ D hydrophobic hydrophobic aromatic hydrophobic charged
+ D C hydrophobic hydrophobic polar polar
+ T negative hydrophobic charged A polar
+ T charged hydrophobic negative A polar
+ T polar hydrophobic E tiny polar hydrophobic
+ T hydrophobic charged hydrophobic charged A
+ T hydrophobic charged hydrophobic polar tiny aromatic
+ T hydrophobic polar hydrophobic polar tiny aromatic
+ small negative hydrophobic negative hydrophobic aromatic
+ small polar negative aliphatic charged A
+ small polar negative hydrophobic polar hydrophobic Y
+ small polar polar aromatic polar small hydrophobic small small
+ small polar polar aliphatic polar small aromatic hydrophobic polar polar
+ small polar hydrophobic polar aliphatic negative tiny polar
+ small polar hydrophobic polar aliphatic negative small hydrophobic hydrophobic hydrophobic
+ small polar hydrophobic polar hydrophobic charged small hydrophobic hydrophobic positive
+ small polar hydrophobic hydrophobic small aliphatic aromatic hydrophobic
+ small L negative hydrophobic polar hydrophobic charged
+ small L charged tiny hydrophobic aromatic hydrophobic
+ small L charged small hydrophobic F hydrophobic
+ small aliphatic charged A polar hydrophobic charged
+ small aliphatic polar tiny polar hydrophobic charged charged
+ small hydrophobic polar L polar tiny aromatic
+ small hydrophobic F K negative polar
+ small hydrophobic F K charged polar
+ small hydrophobic F K polar polar
+ small hydrophobic F K D polar
+ small hydrophobic F K D hydrophobic
+ small hydrophobic aromatic K negative polar
+ small hydrophobic aromatic K D polar
+ small hydrophobic hydrophobic charged hydrophobic charged A polar
+ small hydrophobic hydrophobic polar tiny charged hydrophobic polar small small
+ small hydrophobic small hydrophobic polar hydrophobic polar hydrophobic charged polar small
+ small hydrophobic small hydrophobic small polar aliphatic negative
+ small tiny polar E hydrophobic positive
+ small tiny polar polar hydrophobic charged hydrophobic charged
+ small D hydrophobic polar hydrophobic Y
+ small T D hydrophobic charged
+ small T small charged hydrophobic charged hydrophobic
+ small small small charged L charged tiny
+ positive negative tiny hydrophobic aromatic
+ positive polar hydrophobic polar small positive hydrophobic polar polar
+ positive K small polar hydrophobic polar hydrophobic
+ positive D small L hydrophobic
+ positive small small aliphatic F hydrophobic
+ E hydrophobic polar aromatic hydrophobic D
+ E hydrophobic polar hydrophobic charged small small aliphatic
+ E hydrophobic hydrophobic aromatic hydrophobic negative
+ E hydrophobic hydrophobic aromatic hydrophobic D
+ E A polar hydrophobic positive negative
+ E A polar hydrophobic charged negative
+ E A polar hydrophobic hydrophobic negative
+ E A Y hydrophobic polar
+ E A Y hydrophobic charged
+ E A aromatic aromatic
+ E A aromatic F
+ E A hydrophobic F
+ E A hydrophobic hydrophobic hydrophobic negative
+ E tiny polar aromatic hydrophobic small
+ E tiny polar aromatic hydrophobic D
+ E tiny polar hydrophobic positive negative
+ E tiny Y hydrophobic polar
+ E tiny Y hydrophobic charged
+ E tiny aromatic aromatic
+ E tiny aromatic F
+ E tiny hydrophobic aromatic hydrophobic negative
+ E tiny hydrophobic aromatic hydrophobic D
+ E tiny hydrophobic hydrophobic positive charged
+ E tiny hydrophobic hydrophobic positive negative
+ E tiny hydrophobic hydrophobic K small
+ E small polar aromatic hydrophobic D
+ E small polar hydrophobic charged small small aliphatic
+ E small aromatic aromatic hydrophobic small small
+ negative aliphatic negative hydrophobic aromatic hydrophobic polar
+ negative aliphatic negative hydrophobic hydrophobic hydrophobic polar small hydrophobic
+ negative aliphatic negative tiny aromatic hydrophobic
+ negative aliphatic negative small aromatic hydrophobic
+ negative M negative hydrophobic
+ negative hydrophobic E hydrophobic polar hydrophobic polar small
+ negative hydrophobic E A polar hydrophobic
+ negative hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic
+ negative hydrophobic negative tiny hydrophobic aromatic
+ negative hydrophobic negative tiny hydrophobic hydrophobic positive
+ negative hydrophobic negative small aromatic aromatic
+ negative hydrophobic charged hydrophobic aromatic hydrophobic hydrophobic polar
+ negative hydrophobic polar aromatic hydrophobic D
+ negative hydrophobic polar hydrophobic Y hydrophobic polar
+ negative hydrophobic aliphatic aromatic hydrophobic charged
+ negative hydrophobic hydrophobic F polar negative hydrophobic
+ negative hydrophobic hydrophobic F polar D polar
+ negative hydrophobic hydrophobic F polar D hydrophobic
+ negative hydrophobic hydrophobic F hydrophobic negative polar
+ negative hydrophobic hydrophobic F hydrophobic charged polar
+ negative hydrophobic hydrophobic aromatic polar D polar
+ negative hydrophobic hydrophobic aromatic polar D hydrophobic
+ negative A polar hydrophobic positive negative
+ negative A polar hydrophobic charged negative
+ negative A polar hydrophobic K small
+ negative A Y hydrophobic charged
+ negative A hydrophobic hydrophobic charged negative
+ negative C L
+ negative tiny polar aromatic hydrophobic D
+ negative tiny Y hydrophobic charged
+ negative tiny aromatic aromatic polar small
+ negative tiny aliphatic F
+ negative tiny hydrophobic F polar negative polar
+ negative tiny hydrophobic F polar charged polar
+ negative tiny hydrophobic F polar polar polar
+ negative tiny hydrophobic F hydrophobic negative polar
+ negative tiny hydrophobic F hydrophobic charged polar
+ negative tiny hydrophobic F hydrophobic small polar
+ negative tiny hydrophobic F hydrophobic small hydrophobic
+ negative tiny hydrophobic aromatic charged polar polar
+ negative tiny hydrophobic hydrophobic positive D hydrophobic
+ negative tiny hydrophobic hydrophobic charged D hydrophobic
+ negative tiny hydrophobic hydrophobic polar D hydrophobic
+ negative tiny hydrophobic hydrophobic K D hydrophobic
+ negative small polar aromatic hydrophobic D
+ negative small hydrophobic F positive negative hydrophobic
+ negative small hydrophobic F positive charged hydrophobic
+ negative small hydrophobic F charged negative hydrophobic
+ negative small hydrophobic F charged charged hydrophobic
+ negative small hydrophobic F polar negative polar
+ negative small hydrophobic F polar negative hydrophobic
+ negative small hydrophobic F polar charged polar
+ negative small hydrophobic F polar charged hydrophobic
+ negative small hydrophobic F K negative hydrophobic
+ negative small hydrophobic F K charged hydrophobic
+ negative small hydrophobic F hydrophobic negative polar
+ negative small hydrophobic F hydrophobic charged polar
+ negative small hydrophobic aromatic positive negative hydrophobic
+ negative small hydrophobic aromatic positive charged hydrophobic
+ negative small hydrophobic aromatic charged negative hydrophobic
+ negative small hydrophobic aromatic charged charged hydrophobic
+ negative small hydrophobic aromatic K negative hydrophobic
+ negative small hydrophobic aromatic K charged hydrophobic
+ negative small hydrophobic hydrophobic polar small hydrophobic L
+ negative small hydrophobic hydrophobic K D hydrophobic
+ charged positive polar hydrophobic polar small charged
+ charged negative polar aliphatic hydrophobic K
+ charged charged small polar hydrophobic charged hydrophobic hydrophobic
+ charged charged small polar hydrophobic polar hydrophobic small small hydrophobic
+ charged polar hydrophobic aliphatic aromatic positive small
+ charged L E hydrophobic aromatic
+ charged L negative hydrophobic aromatic
+ charged L charged A Y
+ charged L charged tiny Y
+ charged L polar hydrophobic hydrophobic aromatic hydrophobic
+ charged L polar A Y
+ charged aliphatic negative tiny polar aromatic
+ charged aliphatic negative tiny aromatic hydrophobic polar
+ charged aliphatic negative small polar aromatic
+ charged aliphatic negative small aromatic hydrophobic polar
+ charged K charged hydrophobic polar small
+ charged hydrophobic E hydrophobic aromatic hydrophobic hydrophobic
+ charged hydrophobic E A polar hydrophobic polar
+ charged hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic polar
+ charged hydrophobic polar hydrophobic polar polar hydrophobic hydrophobic hydrophobic polar charged
+ charged hydrophobic polar hydrophobic polar hydrophobic polar negative tiny
+ charged hydrophobic polar A aromatic aromatic
+ charged hydrophobic polar A aromatic hydrophobic hydrophobic polar
+ charged hydrophobic hydrophobic F charged charged polar
+ charged hydrophobic hydrophobic F charged polar polar
+ charged hydrophobic hydrophobic F polar D polar
+ charged hydrophobic hydrophobic F polar D hydrophobic
+ charged A polar hydrophobic positive small hydrophobic hydrophobic hydrophobic
+ charged A hydrophobic F polar
+ charged A hydrophobic hydrophobic K polar hydrophobic
+ charged tiny polar hydrophobic charged polar polar aliphatic
+ charged tiny polar hydrophobic charged small polar aliphatic
+ charged tiny aliphatic F polar
+ charged tiny hydrophobic F polar negative polar
+ charged tiny hydrophobic F polar small small
+ charged tiny hydrophobic F hydrophobic negative polar
+ charged tiny hydrophobic F hydrophobic charged polar
+ charged tiny hydrophobic F hydrophobic small small hydrophobic
+ charged tiny hydrophobic hydrophobic K D hydrophobic
+ charged D tiny hydrophobic aromatic polar
+ charged D small hydrophobic aromatic polar
+ charged small aliphatic F hydrophobic polar hydrophobic
+ charged small hydrophobic F positive negative hydrophobic
+ charged small hydrophobic F K negative hydrophobic
+ charged small hydrophobic F K charged hydrophobic
+ charged small hydrophobic F hydrophobic negative polar
+ charged small hydrophobic aromatic K negative hydrophobic
+ charged small hydrophobic hydrophobic K D hydrophobic
+ charged small small L F
+ polar negative hydrophobic charged hydrophobic Y
+ polar negative hydrophobic polar hydrophobic Y hydrophobic
+ polar negative C aliphatic hydrophobic
+ polar negative C hydrophobic hydrophobic
+ polar charged aliphatic E hydrophobic aromatic
+ polar charged aliphatic negative tiny aromatic
+ polar charged aliphatic negative tiny hydrophobic aromatic
+ polar charged hydrophobic E A polar hydrophobic
+ polar charged hydrophobic E tiny aromatic
+ polar charged hydrophobic E small Y
+ polar charged hydrophobic negative tiny polar hydrophobic hydrophobic polar
+ polar charged hydrophobic polar tiny aromatic hydrophobic polar polar
+ polar charged D small hydrophobic polar
+ polar charged small polar hydrophobic polar hydrophobic polar hydrophobic aliphatic
+ polar polar charged hydrophobic E hydrophobic aromatic
+ polar polar charged hydrophobic negative A polar
+ polar polar polar negative hydrophobic small polar hydrophobic hydrophobic polar
+ polar polar polar L negative tiny polar
+ polar polar polar L aromatic charged
+ polar polar polar hydrophobic E hydrophobic aromatic
+ polar polar polar D hydrophobic polar A
+ polar polar L polar hydrophobic polar hydrophobic positive
+ polar polar aliphatic negative hydrophobic polar hydrophobic positive
+ polar polar aliphatic polar hydrophobic aromatic aromatic
+ polar polar hydrophobic E tiny Y
+ polar polar hydrophobic negative A aromatic
+ polar polar hydrophobic negative tiny R
+ polar polar hydrophobic polar aliphatic E tiny
+ polar polar hydrophobic polar hydrophobic charged hydrophobic hydrophobic hydrophobic positive
+ polar polar hydrophobic polar hydrophobic polar tiny hydrophobic hydrophobic positive
+ polar polar hydrophobic polar A polar hydrophobic charged charged
+ polar polar hydrophobic polar small positive hydrophobic negative
+ polar polar hydrophobic small hydrophobic hydrophobic small small polar small hydrophobic polar
+ polar polar tiny L F
+ polar polar D aliphatic polar hydrophobic aromatic
+ polar polar D aliphatic polar A
+ polar polar D hydrophobic negative A
+ polar polar T charged hydrophobic charged hydrophobic
+ polar polar T polar aliphatic E
+ polar polar small hydrophobic polar tiny aromatic hydrophobic charged
+ polar polar small hydrophobic hydrophobic charged polar hydrophobic charged polar
+ polar L E A polar hydrophobic
+ polar L E tiny polar hydrophobic polar
+ polar L charged hydrophobic hydrophobic aromatic hydrophobic small
+ polar L charged A polar hydrophobic charged
+ polar L charged A Y
+ polar L charged A hydrophobic hydrophobic positive
+ polar L charged tiny hydrophobic F hydrophobic
+ polar L charged tiny hydrophobic hydrophobic positive
+ polar L polar A hydrophobic hydrophobic positive
+ polar aliphatic E A polar hydrophobic
+ polar aliphatic negative tiny polar aromatic
+ polar aliphatic charged hydrophobic aromatic hydrophobic charged
+ polar aliphatic polar A hydrophobic hydrophobic positive polar
+ polar aliphatic polar tiny aromatic hydrophobic positive polar
+ polar aliphatic polar tiny aromatic hydrophobic charged charged
+ polar aliphatic polar small aromatic hydrophobic positive polar
+ polar aliphatic polar small aromatic hydrophobic charged charged
+ polar hydrophobic E hydrophobic hydrophobic hydrophobic K small
+ polar hydrophobic E A Y
+ polar hydrophobic E tiny aromatic hydrophobic hydrophobic
+ polar hydrophobic negative hydrophobic E tiny hydrophobic
+ polar hydrophobic negative hydrophobic polar tiny hydrophobic hydrophobic polar
+ polar hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic charged
+ polar hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic polar polar
+ polar hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic small polar
+ polar hydrophobic negative C
+ polar hydrophobic negative tiny polar aromatic hydrophobic
+ polar hydrophobic negative tiny aromatic hydrophobic hydrophobic polar
+ polar hydrophobic negative small hydrophobic hydrophobic positive charged
+ polar hydrophobic charged polar hydrophobic hydrophobic aromatic positive
+ polar hydrophobic charged hydrophobic charged G polar
+ polar hydrophobic charged hydrophobic aromatic hydrophobic charged polar
+ polar hydrophobic charged tiny aromatic hydrophobic charged polar
+ polar hydrophobic charged small aromatic hydrophobic charged polar
+ polar hydrophobic polar polar L charged hydrophobic polar hydrophobic
+ polar hydrophobic polar hydrophobic E hydrophobic hydrophobic hydrophobic positive
+ polar hydrophobic polar hydrophobic negative hydrophobic hydrophobic hydrophobic positive
+ polar hydrophobic polar hydrophobic charged small hydrophobic F
+ polar hydrophobic polar hydrophobic polar small hydrophobic aromatic hydrophobic polar hydrophobic
+ polar hydrophobic polar hydrophobic polar small hydrophobic aliphatic hydrophobic charged
+ polar hydrophobic polar hydrophobic aromatic hydrophobic K polar
+ polar hydrophobic polar tiny polar hydrophobic K polar hydrophobic
+ polar hydrophobic polar tiny aromatic hydrophobic positive polar hydrophobic
+ polar hydrophobic polar small charged aliphatic charged charged
+ polar hydrophobic polar small aromatic hydrophobic positive polar hydrophobic
+ polar hydrophobic K negative polar aliphatic
+ polar hydrophobic G G small aliphatic
+ polar hydrophobic N hydrophobic polar tiny hydrophobic hydrophobic small
+ polar hydrophobic D L E
+ polar hydrophobic T negative hydrophobic negative
+ polar hydrophobic T charged aliphatic negative
+ polar hydrophobic T charged aliphatic E
+ polar hydrophobic T polar aliphatic E
+ polar hydrophobic small negative L polar hydrophobic hydrophobic
+ polar hydrophobic small charged hydrophobic negative tiny polar
+ polar A Y aromatic hydrophobic
+ polar A aromatic F polar
+ polar tiny polar hydrophobic K small polar hydrophobic hydrophobic
+ polar tiny aromatic F hydrophobic polar small
+ polar tiny aromatic hydrophobic K charged hydrophobic
+ polar tiny aromatic hydrophobic K polar small
+ polar tiny hydrophobic aromatic charged small tiny
+ polar tiny hydrophobic hydrophobic K negative polar
+ polar tiny hydrophobic hydrophobic K D polar
+ polar D hydrophobic negative hydrophobic aromatic
+ polar D hydrophobic polar hydrophobic hydrophobic aromatic
+ polar D hydrophobic polar tiny Y
+ polar D hydrophobic polar small Y
+ polar D tiny hydrophobic aromatic hydrophobic
+ polar T polar D hydrophobic polar hydrophobic
+ polar T hydrophobic charged L polar
+ polar T hydrophobic charged aliphatic polar tiny
+ polar T D aliphatic polar hydrophobic
+ polar T D aliphatic polar small
+ polar T D hydrophobic E
+ polar T T polar L polar
+ polar T T polar aliphatic polar
+ polar small polar L E tiny polar
+ polar small polar aliphatic E polar hydrophobic
+ polar small polar hydrophobic positive small polar L
+ polar small polar hydrophobic polar small hydrophobic hydrophobic hydrophobic K
+ polar small aliphatic polar hydrophobic aromatic hydrophobic polar polar
+ polar small aliphatic polar tiny polar hydrophobic charged polar
+ polar small aliphatic polar tiny aromatic hydrophobic polar polar
+ polar small aliphatic polar tiny hydrophobic hydrophobic charged charged
+ polar small hydrophobic negative hydrophobic charged hydrophobic aromatic
+ polar small hydrophobic charged hydrophobic charged tiny aromatic
+ polar small hydrophobic F K negative hydrophobic
+ polar small hydrophobic F K charged hydrophobic
+ polar small hydrophobic hydrophobic K negative polar
+ polar small hydrophobic hydrophobic K D polar
+ polar small tiny aliphatic aromatic polar small
+ polar small T negative aliphatic charged
+ polar small T charged aliphatic charged small
+ polar small small negative hydrophobic negative hydrophobic hydrophobic
+ polar small small charged aliphatic charged tiny polar
+ polar small small polar polar aromatic small small hydrophobic small
+ Y F positive charged
+ Y F positive negative
+ Y F K charged
+ Y F K negative
+ Y aromatic positive negative
+ Y aromatic K charged
+ Y aromatic K negative
+ H hydrophobic charged small charged
+ aromatic charged D C
+ aromatic polar negative tiny hydrophobic aromatic
+ aromatic polar charged tiny hydrophobic aromatic
+ aromatic polar D C
+ aromatic F K negative
+ aromatic hydrophobic positive charged hydrophobic L
+ aromatic hydrophobic charged charged hydrophobic L
+ L E A aromatic
+ L negative A polar hydrophobic hydrophobic
+ L negative A aromatic
+ L negative A hydrophobic hydrophobic positive
+ L negative tiny hydrophobic hydrophobic positive
+ L charged hydrophobic hydrophobic F hydrophobic small
+ L charged A polar hydrophobic charged polar
+ L charged tiny hydrophobic F hydrophobic small
+ L polar hydrophobic hydrophobic hydrophobic charged D
+ L polar A polar hydrophobic charged polar
+ L polar A hydrophobic hydrophobic charged small
+ L hydrophobic K D
+ L small hydrophobic polar small positive polar
+ aliphatic E A aromatic
+ aliphatic negative A polar hydrophobic positive
+ aliphatic negative A hydrophobic hydrophobic positive
+ aliphatic charged hydrophobic aromatic F
+ aliphatic charged tiny polar hydrophobic K charged
+ aliphatic charged tiny polar hydrophobic K polar hydrophobic
+ aliphatic charged small polar hydrophobic K charged hydrophobic
+ aliphatic charged small aromatic hydrophobic K
+ aliphatic polar hydrophobic hydrophobic aromatic polar small tiny
+ aliphatic polar A polar hydrophobic K polar hydrophobic
+ aliphatic polar A aromatic hydrophobic K
+ aliphatic polar A hydrophobic aromatic positive
+ aliphatic polar A hydrophobic hydrophobic K polar
+ aliphatic polar tiny aromatic hydrophobic K polar
+ aliphatic polar tiny hydrophobic hydrophobic polar small tiny hydrophobic
+ aliphatic polar small aromatic hydrophobic positive polar hydrophobic
+ aliphatic small charged hydrophobic small negative small
+ M tiny polar hydrophobic small hydrophobic polar
+ M small polar small polar aliphatic polar
+ K negative C
+ K D C
+ K small hydrophobic aliphatic F
+ hydrophobic E hydrophobic polar hydrophobic K polar
+ hydrophobic E hydrophobic Y hydrophobic charged
+ hydrophobic E hydrophobic hydrophobic hydrophobic K small polar
+ hydrophobic E A polar hydrophobic charged polar
+ hydrophobic E A polar hydrophobic charged charged
+ hydrophobic E tiny polar hydrophobic charged charged
+ hydrophobic negative aliphatic charged A polar
+ hydrophobic negative hydrophobic E tiny aromatic
+ hydrophobic negative hydrophobic charged small aromatic aromatic
+ hydrophobic negative hydrophobic Y hydrophobic charged
+ hydrophobic negative hydrophobic hydrophobic F positive polar
+ hydrophobic negative hydrophobic hydrophobic F positive charged
+ hydrophobic negative hydrophobic hydrophobic F positive negative
+ hydrophobic negative hydrophobic hydrophobic F positive D
+ hydrophobic negative hydrophobic hydrophobic F charged polar
+ hydrophobic negative hydrophobic hydrophobic F charged charged
+ hydrophobic negative hydrophobic hydrophobic F charged negative
+ hydrophobic negative hydrophobic hydrophobic F charged D
+ hydrophobic negative hydrophobic hydrophobic F polar negative
+ hydrophobic negative hydrophobic hydrophobic F polar D
+ hydrophobic negative hydrophobic hydrophobic F K polar
+ hydrophobic negative hydrophobic hydrophobic F K charged
+ hydrophobic negative hydrophobic hydrophobic F K negative
+ hydrophobic negative hydrophobic hydrophobic F K small
+ hydrophobic negative hydrophobic hydrophobic F K D
+ hydrophobic negative hydrophobic hydrophobic F hydrophobic charged
+ hydrophobic negative hydrophobic hydrophobic F hydrophobic negative
+ hydrophobic negative hydrophobic hydrophobic F hydrophobic D
+ hydrophobic negative hydrophobic hydrophobic F hydrophobic small polar
+ hydrophobic negative hydrophobic hydrophobic aromatic positive charged
+ hydrophobic negative hydrophobic hydrophobic aromatic positive negative
+ hydrophobic negative hydrophobic hydrophobic aromatic positive D
+ hydrophobic negative hydrophobic hydrophobic aromatic charged charged
+ hydrophobic negative hydrophobic hydrophobic aromatic charged negative
+ hydrophobic negative hydrophobic hydrophobic aromatic charged D
+ hydrophobic negative hydrophobic hydrophobic aromatic polar D
+ hydrophobic negative hydrophobic hydrophobic aromatic K charged
+ hydrophobic negative hydrophobic hydrophobic aromatic K negative
+ hydrophobic negative hydrophobic hydrophobic aromatic K D
+ hydrophobic negative hydrophobic hydrophobic aromatic hydrophobic negative hydrophobic
+ hydrophobic negative hydrophobic hydrophobic aromatic hydrophobic D
+ hydrophobic negative hydrophobic hydrophobic hydrophobic K D hydrophobic
+ hydrophobic negative A polar F
+ hydrophobic negative A hydrophobic hydrophobic hydrophobic negative
+ hydrophobic negative tiny hydrophobic F positive polar
+ hydrophobic negative tiny hydrophobic F positive charged
+ hydrophobic negative tiny hydrophobic F positive negative
+ hydrophobic negative tiny hydrophobic F positive D
+ hydrophobic negative tiny hydrophobic F charged polar
+ hydrophobic negative tiny hydrophobic F charged charged
+ hydrophobic negative tiny hydrophobic F charged negative
+ hydrophobic negative tiny hydrophobic F charged D
+ hydrophobic negative tiny hydrophobic F polar polar
+ hydrophobic negative tiny hydrophobic F polar charged
+ hydrophobic negative tiny hydrophobic F polar negative
+ hydrophobic negative tiny hydrophobic F polar D
+ hydrophobic negative tiny hydrophobic F K polar
+ hydrophobic negative tiny hydrophobic F K charged
+ hydrophobic negative tiny hydrophobic F K negative
+ hydrophobic negative tiny hydrophobic F K small
+ hydrophobic negative tiny hydrophobic F K D
+ hydrophobic negative tiny hydrophobic F hydrophobic charged
+ hydrophobic negative tiny hydrophobic F hydrophobic negative
+ hydrophobic negative tiny hydrophobic F hydrophobic D
+ hydrophobic negative tiny hydrophobic aromatic positive polar
+ hydrophobic negative tiny hydrophobic aromatic positive charged
+ hydrophobic negative tiny hydrophobic aromatic positive negative
+ hydrophobic negative tiny hydrophobic aromatic positive D
+ hydrophobic negative tiny hydrophobic aromatic charged charged
+ hydrophobic negative tiny hydrophobic aromatic charged negative
+ hydrophobic negative tiny hydrophobic aromatic charged D
+ hydrophobic negative tiny hydrophobic aromatic polar D
+ hydrophobic negative tiny hydrophobic aromatic K polar
+ hydrophobic negative tiny hydrophobic aromatic K charged
+ hydrophobic negative tiny hydrophobic aromatic K negative
+ hydrophobic negative tiny hydrophobic aromatic K small
+ hydrophobic negative tiny hydrophobic aromatic K D
+ hydrophobic negative tiny hydrophobic aromatic hydrophobic D
+ hydrophobic negative tiny hydrophobic hydrophobic K small hydrophobic
+ hydrophobic negative small hydrophobic F positive polar polar
+ hydrophobic negative small hydrophobic F positive D
+ hydrophobic negative small hydrophobic F charged polar polar
+ hydrophobic negative small hydrophobic F charged D
+ hydrophobic negative small hydrophobic F polar polar polar
+ hydrophobic negative small hydrophobic F polar D
+ hydrophobic negative small hydrophobic F K small
+ hydrophobic negative small hydrophobic F K D
+ hydrophobic negative small hydrophobic aromatic positive polar polar
+ hydrophobic negative small hydrophobic aromatic positive D
+ hydrophobic negative small hydrophobic aromatic charged D
+ hydrophobic negative small hydrophobic aromatic polar D
+ hydrophobic negative small hydrophobic aromatic K small
+ hydrophobic negative small hydrophobic aromatic K D
+ hydrophobic charged polar hydrophobic hydrophobic hydrophobic positive small polar polar
+ hydrophobic charged aliphatic negative tiny aromatic
+ hydrophobic charged aliphatic charged hydrophobic aromatic hydrophobic polar
+ hydrophobic charged hydrophobic L aromatic hydrophobic polar
+ hydrophobic charged hydrophobic hydrophobic F positive negative
+ hydrophobic charged hydrophobic hydrophobic F positive D
+ hydrophobic charged hydrophobic hydrophobic F charged negative
+ hydrophobic charged hydrophobic hydrophobic F charged D
+ hydrophobic charged hydrophobic hydrophobic F polar negative
+ hydrophobic charged hydrophobic hydrophobic F polar D
+ hydrophobic charged hydrophobic hydrophobic F K negative
+ hydrophobic charged hydrophobic hydrophobic F K D
+ hydrophobic charged tiny aliphatic hydrophobic hydrophobic charged polar
+ hydrophobic charged tiny hydrophobic F positive negative
+ hydrophobic charged tiny hydrophobic F positive D
+ hydrophobic charged tiny hydrophobic F charged negative
+ hydrophobic charged tiny hydrophobic F charged D
+ hydrophobic charged tiny hydrophobic F polar negative
+ hydrophobic charged tiny hydrophobic F polar polar hydrophobic
+ hydrophobic charged tiny hydrophobic F polar D
+ hydrophobic charged tiny hydrophobic F K charged
+ hydrophobic charged tiny hydrophobic F K negative
+ hydrophobic charged tiny hydrophobic F K D
+ hydrophobic charged tiny hydrophobic F hydrophobic D
+ hydrophobic charged tiny hydrophobic aromatic K negative
+ hydrophobic charged tiny hydrophobic aromatic K D
+ hydrophobic charged small aliphatic F hydrophobic polar
+ hydrophobic charged small hydrophobic F positive D
+ hydrophobic charged small hydrophobic F charged D
+ hydrophobic charged small hydrophobic F K D
+ hydrophobic charged small hydrophobic aromatic K D
+ hydrophobic polar positive hydrophobic polar tiny positive hydrophobic
+ hydrophobic polar positive hydrophobic polar small positive hydrophobic
+ hydrophobic polar charged L E hydrophobic polar
+ hydrophobic polar charged aliphatic charged hydrophobic polar polar hydrophobic
+ hydrophobic polar charged small V charged small
+ hydrophobic polar polar polar charged hydrophobic negative hydrophobic polar
+ hydrophobic polar L charged hydrophobic hydrophobic hydrophobic K
+ hydrophobic polar aliphatic charged hydrophobic hydrophobic hydrophobic K
+ hydrophobic polar aliphatic polar tiny aromatic hydrophobic charged polar
+ hydrophobic polar aliphatic polar small aromatic hydrophobic charged polar
+ hydrophobic polar hydrophobic E hydrophobic hydrophobic hydrophobic K
+ hydrophobic polar hydrophobic negative hydrophobic hydrophobic hydrophobic K
+ hydrophobic polar hydrophobic polar hydrophobic aromatic hydrophobic positive polar
+ hydrophobic polar hydrophobic polar small hydrophobic F hydrophobic polar
+ hydrophobic polar hydrophobic polar small small small hydrophobic tiny hydrophobic hydrophobic
+ hydrophobic polar hydrophobic hydrophobic F K negative
+ hydrophobic polar hydrophobic hydrophobic F K D
+ hydrophobic polar A polar aliphatic charged polar hydrophobic
+ hydrophobic polar A polar hydrophobic charged small hydrophobic hydrophobic hydrophobic
+ hydrophobic polar A Y aromatic
+ hydrophobic polar A aromatic F
+ hydrophobic polar tiny hydrophobic F K charged
+ hydrophobic polar tiny hydrophobic F K negative
+ hydrophobic polar tiny hydrophobic F K D
+ hydrophobic polar tiny hydrophobic hydrophobic charged polar polar aliphatic
+ hydrophobic polar D L charged hydrophobic
+ hydrophobic polar D L polar A
+ hydrophobic polar D hydrophobic E charged
+ hydrophobic polar small hydrophobic F K D
+ hydrophobic polar small hydrophobic S tiny tiny small
+ hydrophobic polar small small small hydrophobic tiny hydrophobic hydrophobic small hydrophobic
+ hydrophobic aromatic charged negative C
+ hydrophobic aromatic charged negative tiny hydrophobic
+ hydrophobic aromatic polar negative C
+ hydrophobic aromatic aromatic K charged
+ hydrophobic K charged tiny aliphatic hydrophobic
+ hydrophobic K D hydrophobic L
+ hydrophobic hydrophobic positive charged small L hydrophobic hydrophobic polar
+ hydrophobic hydrophobic negative small hydrophobic hydrophobic K small
+ hydrophobic hydrophobic charged negative small hydrophobic aromatic
+ hydrophobic hydrophobic charged charged polar polar hydrophobic small hydrophobic small
+ hydrophobic hydrophobic charged D small hydrophobic aromatic
+ hydrophobic hydrophobic polar polar polar charged hydrophobic E small
+ hydrophobic hydrophobic polar hydrophobic polar tiny hydrophobic aromatic hydrophobic polar hydrophobic
+ hydrophobic hydrophobic polar hydrophobic polar tiny hydrophobic aromatic hydrophobic polar small
+ hydrophobic hydrophobic polar small polar polar hydrophobic polar hydrophobic hydrophobic hydrophobic charged
+ hydrophobic hydrophobic hydrophobic negative hydrophobic hydrophobic hydrophobic K
+ hydrophobic hydrophobic hydrophobic negative small hydrophobic hydrophobic K
+ hydrophobic hydrophobic small charged hydrophobic positive positive
+ hydrophobic hydrophobic small hydrophobic aliphatic hydrophobic aliphatic polar small hydrophobic
+ hydrophobic tiny small polar hydrophobic polar hydrophobic charged small polar
+ hydrophobic D aliphatic charged hydrophobic aromatic
+ hydrophobic D aliphatic charged tiny aromatic
+ hydrophobic D C aliphatic
+ hydrophobic T negative hydrophobic charged A
+ hydrophobic T charged hydrophobic E small polar
+ hydrophobic T charged hydrophobic negative A
+ hydrophobic T polar hydrophobic E small polar
+ hydrophobic T small hydrophobic polar hydrophobic Y
+ hydrophobic small polar L E small polar
+ hydrophobic small polar small polar polar hydrophobic polar hydrophobic hydrophobic hydrophobic polar
+ hydrophobic small aliphatic charged hydrophobic hydrophobic F
+ hydrophobic small hydrophobic E hydrophobic hydrophobic hydrophobic K
+ hydrophobic small hydrophobic negative hydrophobic hydrophobic hydrophobic K
+ hydrophobic small hydrophobic small D hydrophobic E
+ hydrophobic small D L polar A
+ hydrophobic small small polar polar polar polar polar hydrophobic charged
+ A aromatic F polar polar
+ A hydrophobic aromatic hydrophobic D
+ A hydrophobic aliphatic hydrophobic hydrophobic aliphatic hydrophobic hydrophobic
+ S polar small charged hydrophobic charged hydrophobic
+ S polar small polar L E hydrophobic
+ S polar small polar L negative hydrophobic
+ S polar small polar L charged tiny
+ S polar small polar aliphatic E hydrophobic
+ S polar small polar aliphatic charged small polar
+ S polar small polar hydrophobic E hydrophobic polar
+ S polar small polar hydrophobic negative hydrophobic polar
+ S polar small small hydrophobic E small
+ S T polar polar L polar
+ S small polar charged hydrophobic polar hydrophobic polar
+ S small hydrophobic polar L charged hydrophobic polar
+ S small small polar L polar hydrophobic polar
+ S small small polar L polar small polar
+ tiny polar polar polar L E tiny
+ tiny polar polar polar L negative tiny
+ tiny polar polar polar L charged tiny
+ tiny polar polar polar aliphatic E tiny
+ tiny polar polar small L polar hydrophobic polar
+ tiny polar hydrophobic polar charged polar small polar polar
+ tiny polar hydrophobic polar hydrophobic charged hydrophobic aromatic
+ tiny polar hydrophobic K charged hydrophobic hydrophobic hydrophobic
+ tiny polar hydrophobic hydrophobic polar hydrophobic hydrophobic charged polar polar
+ tiny polar hydrophobic hydrophobic polar tiny hydrophobic hydrophobic polar polar
+ tiny aromatic aromatic K polar
+ tiny aromatic aromatic K charged
+ tiny hydrophobic polar polar L negative hydrophobic
+ tiny hydrophobic polar polar aliphatic negative hydrophobic polar
+ tiny hydrophobic T polar aliphatic charged hydrophobic
+ tiny hydrophobic T polar aliphatic charged small
+ tiny hydrophobic small D hydrophobic E
+ tiny T polar polar L polar
+ tiny T T polar aliphatic polar
+ tiny T small charged aliphatic polar
+ tiny small hydrophobic polar hydrophobic polar hydrophobic aromatic hydrophobic
+ tiny small hydrophobic small hydrophobic polar hydrophobic polar hydrophobic charged
+ tiny small tiny polar hydrophobic polar hydrophobic polar hydrophobic hydrophobic
+ D charged hydrophobic hydrophobic hydrophobic small hydrophobic small
+ D L charged A polar
+ D L charged A aromatic
+ D L charged tiny aromatic
+ D L polar A aromatic
+ D aliphatic negative hydrophobic aromatic hydrophobic polar
+ D aliphatic negative tiny aromatic hydrophobic
+ D aliphatic negative small aromatic hydrophobic
+ D aliphatic charged A polar
+ D aliphatic charged A aromatic
+ D aliphatic charged tiny aromatic hydrophobic polar
+ D aliphatic charged small aromatic hydrophobic polar
+ D aliphatic polar hydrophobic aromatic hydrophobic polar polar
+ D aliphatic polar tiny aromatic hydrophobic polar polar
+ D aliphatic polar small aromatic hydrophobic polar polar
+ D hydrophobic negative hydrophobic hydrophobic aromatic
+ D hydrophobic negative tiny aromatic hydrophobic
+ D hydrophobic negative tiny hydrophobic hydrophobic positive
+ D hydrophobic negative tiny hydrophobic hydrophobic polar small
+ D hydrophobic negative small aromatic hydrophobic polar
+ D hydrophobic negative small hydrophobic aromatic
+ D hydrophobic charged hydrophobic hydrophobic aromatic
+ D hydrophobic charged A aromatic
+ D hydrophobic charged tiny aromatic hydrophobic polar
+ D hydrophobic charged tiny hydrophobic hydrophobic polar small
+ D hydrophobic polar tiny aromatic hydrophobic polar polar
+ D C L
+ D small hydrophobic aromatic hydrophobic negative
+ T negative hydrophobic E tiny polar
+ T negative hydrophobic polar hydrophobic Y
+ T charged hydrophobic E A polar
+ T polar polar hydrophobic polar tiny aromatic
+ T polar aliphatic E tiny polar
+ T hydrophobic polar L polar small hydrophobic
+ T hydrophobic polar hydrophobic negative tiny polar
+ T hydrophobic polar hydrophobic charged A polar
+ T T polar hydrophobic polar small hydrophobic
+ T small polar hydrophobic charged A polar
+ T small polar hydrophobic charged tiny polar hydrophobic
+ T small hydrophobic charged hydrophobic polar hydrophobic charged
+ T small D hydrophobic polar small
+ small positive hydrophobic polar polar charged small charged
+ small negative hydrophobic E tiny polar hydrophobic
+ small charged charged hydrophobic polar hydrophobic polar hydrophobic hydrophobic hydrophobic hydrophobic
+ small charged aliphatic negative hydrophobic aromatic hydrophobic
+ small charged aliphatic negative tiny aromatic hydrophobic
+ small charged hydrophobic E tiny aromatic
+ small polar negative charged hydrophobic polar polar hydrophobic
+ small polar negative L polar A hydrophobic
+ small polar negative hydrophobic charged small aromatic
+ small polar negative hydrophobic polar small Y
+ small polar charged hydrophobic negative small aromatic
+ small polar charged hydrophobic tiny polar hydrophobic hydrophobic hydrophobic polar
+ small polar polar hydrophobic negative hydrophobic aromatic hydrophobic hydrophobic
+ small polar polar hydrophobic polar polar charged hydrophobic polar polar
+ small polar polar hydrophobic polar hydrophobic aromatic hydrophobic hydrophobic charged
+ small polar hydrophobic E tiny Y
+ small polar hydrophobic polar L polar tiny polar hydrophobic hydrophobic
+ small polar hydrophobic polar hydrophobic polar tiny polar hydrophobic positive
+ small polar hydrophobic hydrophobic small aliphatic aromatic tiny
+ small polar hydrophobic S hydrophobic polar tiny small
+ small polar hydrophobic D aliphatic E
+ small polar D L polar A hydrophobic
+ small polar small charged hydrophobic polar hydrophobic hydrophobic hydrophobic polar small
+ small polar small polar charged polar small polar polar small
+ small polar small polar L polar polar polar hydrophobic hydrophobic
+ small polar small polar hydrophobic polar polar polar tiny small polar
+ small polar small D hydrophobic E hydrophobic
+ small L charged tiny hydrophobic F hydrophobic
+ small L P polar polar small small
+ small aliphatic charged tiny aromatic hydrophobic charged
+ small aliphatic charged tiny aromatic hydrophobic positive
+ small aliphatic polar tiny aromatic hydrophobic polar charged
+ small hydrophobic negative hydrophobic charged tiny aromatic
+ small hydrophobic charged aliphatic charged tiny aromatic
+ small hydrophobic charged tiny aromatic hydrophobic charged
+ small hydrophobic charged tiny aromatic hydrophobic positive
+ small hydrophobic polar A aromatic hydrophobic K
+ small hydrophobic polar tiny aromatic hydrophobic K polar
+ small hydrophobic polar small aromatic hydrophobic K polar
+ small hydrophobic hydrophobic charged D polar aliphatic
+ small hydrophobic D aliphatic charged hydrophobic hydrophobic hydrophobic
+ small hydrophobic T polar hydrophobic polar A polar
+ small hydrophobic small negative L charged
+ small hydrophobic small negative L negative
+ small hydrophobic small D aliphatic negative
+ small hydrophobic small D hydrophobic E hydrophobic
+ small C aliphatic aromatic
+ small T polar polar L polar
+ small T hydrophobic small L negative
+ small T hydrophobic small L E
+ small T D aliphatic charged
+ small small negative hydrophobic polar hydrophobic hydrophobic hydrophobic polar polar hydrophobic
+ small small charged small aromatic hydrophobic small hydrophobic small
+ small small polar polar hydrophobic negative hydrophobic aromatic
+ small small polar L charged tiny polar
+ small small polar tiny polar hydrophobic polar small polar hydrophobic
+ small small aliphatic negative tiny aromatic
+ small small hydrophobic polar hydrophobic hydrophobic charged hydrophobic negative
+ small small G G small aliphatic
+ small small D aliphatic charged small hydrophobic
+ small small small tiny hydrophobic polar polar polar tiny
