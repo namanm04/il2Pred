@@ -1,0 +1,5 @@
+Subject,ML Score,MERCI Score Pos,MERCI Score Neg,Hybrid Score,Prediction
+seq1,0.784,0.0,-0.5,0.284,il2 non-inducer
+seq2,0.132,0.0,-0.5,0.0,il2 non-inducer
+seq3,0.638,0.0,0.0,0.638,il2 inducer
+seq4,0.034,0.0,-0.5,0.0,il2 non-inducer
