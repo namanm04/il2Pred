@@ -15,7 +15,7 @@ il2Pred -h
 ```
 # Standalone
 
-Standalone version of PlantDRPpred is written in python3 and the following libraries are necessary for a successful run:
+Standalone version of il2Pred is written in python3 and the following libraries are necessary for a successful run:
 
 - scikit-learn = 1.4.2
 - Pandas
