@@ -36,11 +36,15 @@ parser = argparse.ArgumentParser(description='Please provide the following argum
 ## Read Arguments from command
 parser.add_argument("-i", "--input", type=str, required=True, help="Input: protein or peptide sequence in FASTA format or single sequence per line in single letter code")
 parser.add_argument("-o", "--output",type=str, help="Output: File for saving results by default outfile.csv")
-parser.add_argument("-m", "--model",type=int, choices = [1,2], help="Model Type: 1: Composition based model, 2: Hybrid Model, by default 1")
-parser.add_argument("-t","--threshold", type=float, help="Threshold: Value between 0 to 1 by default 0.5")
-parser.add_argument("-d","--display", type=int, choices = [1,2], help="Display: 1:interleukin Peptide only, 2: All Proteins, by default 1")
+parser.add_argument("-m", "--model", type=int, choices=[1, 2], default=1, help="Model Type: 1: Composition based model, 2: Hybrid Model, by default 1")
+parser.add_argument("-t", "--threshold", type=float, default=0.5, help="Threshold: Value between 0 to 1 by default 0.5")
+parser.add_argument("-d", "--display", type=int, choices=[1, 2], default=1, help="Display: 1:interleukin Peptide only, 2: All Proteins, by default 1")
 args = parser.parse_args()
 nf_path = os.path.dirname(__file__)
+
+# Output file
+result_filename = args.output if args.output else "output.csv"
+
 
 # Function to check the sequence
 def readseq(file):
@@ -322,8 +326,8 @@ print('# #######################################################################
 
 Sequence= args.input        # Input variable 
  
-# Output file 
-result_filename = args.output
+# Output file
+result_filename = args.output if args.output else "output.csv"
          
 # Threshold 
 Threshold= float(args.threshold)
