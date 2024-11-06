@@ -43,9 +43,7 @@ usage: il2Pred.py [-h] -i INPUT [-o OUTPUT] [-t THRESHOLD] [-j {1,2,3}] [-m {1,2
 To run the example, type the following command:
 ```
 
-unzip model.zip
-
-il2Pred.py -i peptide.fa
+python il2Pred.py -i peptide.fa -j 1 -m 1
 
 ```
 ```
