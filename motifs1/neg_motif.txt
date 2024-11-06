@@ -1,0 +1,1583 @@
+MERCI - Summary of options:
+ -p    train_neg.fasta
+ -n    train_pos.fasta
+ -k 	  1000
+ -fp   1
+ -fn   0
+ -o    motifs
+ -l    10000
+ -s    10000
+ -c    NONE
+ -g    0
+ -gl   1
+ -para 0
+
+
+Motifs:
+ D C L
+ C L F
+ D C L F
+ K D C
+ F K D C
+ K D C L
+ Y F K D
+ F K D C L
+ K D C L F
+ T D L E
+ Y F K D C
+ A Y F K D
+ C L F K
+ D C L F K
+ D L E A
+ E A Y F
+ F K D C L F
+ G N G C
+ L E A Y
+ N G C
+ V A D
+ Y F K D C L
+ A F R
+ A Y F K D C
+ E A Y F K
+ E C R
+ F E F
+ K D C L F K
+ L E A Y F
+ L F K D
+ Q P Y
+ R A L V
+ T D L E A
+ T T D L E
+ Y F K D C L F
+ A Y F K D C L
+ C L F K D
+ D C L F K D
+ D L E A Y
+ E A Y F K D
+ F E F Y
+ F E F Y H
+ F K D C L F K
+ K D W
+ L E A Y F K
+ L E C
+ P H P
+ R I E
+ A Y F K D C L F
+ C F E F
+ C F E F Y
+ C F E F Y H
+ C T E
+ C T E L
+ D D G F
+ D L E A Y F
+ E A Y F K D C
+ E G S Y
+ E I G N
+ E I G N G
+ F E D L
+ F K D W
+ F T Q
+ G L D C
+ H P N I
+ I G N G
+ K D C L F K D
+ L E A Y F K D
+ L F G G
+ L F K D W
+ M K A
+ N L N K
+ P S Q Q
+ Q Q Q Q Q
+ S D M
+ S T T D L E
+ T D L E A Y
+ T K D
+ T T D L E A
+ V D D G
+ V D D G F
+ Y F K D C L F K
+ C L F K D W
+ D C L F K D W
+ D L E A Y F K
+ D L Y
+ D M S
+ D M S N
+ D V V V V
+ E A Y F K D C L
+ E E A K
+ E L T G
+ E N L N K
+ F E F Y H K
+ F E F Y H K C
+ F K D C L F K D
+ F S S A
+ F V C A
+ F Y R
+ G C F E
+ G D V V V
+ G D V V V V
+ G N G C F
+ G N G C F E
+ G S T L
+ H P N I E
+ H P N I E E
+ I L A I
+ I S S V
+ K D W E
+ K K V D
+ K L E E
+ K N N A
+ K V D D
+ K V D D G
+ K V D D G F
+ L E A Y F K D C
+ L F V C
+ L N K K
+ L N K K V
+ L N K K V D
+ M A A F
+ M C T
+ M C T E
+ M C T E L
+ M S N E
+ M S T T D L E
+ N A E F
+ N G C F
+ N G C F E
+ N I E E
+ N K K V
+ N K K V D
+ N L N K K
+ N L N K K V
+ N L N K K V D
+ P I V P
+ P N I E
+ P N I E E
+ Q E G S
+ Q Q P Y
+ Q Q Q P
+ Q Q Q Q Q Q
+ R T S D
+ T D L E A Y F
+ T G L D
+ T G R D
+ V C A F
+ V I P V
+ V V V V
+ Y F F
+ A M A T
+ A M A T G
+ A M S T T D L E
+ A Y F K D C L F K
+ C A F S
+ C F E F Y H K
+ C F E F Y H K C
+ C R D
+ C R R
+ C S N G S
+ C S N G S L
+ C S N G S L Q
+ C T E L K
+ C T E L K L
+ D G F L
+ D G F L D
+ D G F L D I
+ D I W
+ D I W T
+ D I W T Y
+ D L E A Y F K D
+ D M S N E
+ D V Y
+ E A Y F K D C L F
+ E E I R
+ E I G N G C
+ E K A A S
+ E L K L
+ E N L N K K
+ E N L N K K V
+ E N L N K K V D
+ E T A G
+ F A T A
+ F D M
+ F D M S
+ F D M S N
+ F K D W E
+ F L D I
+ F P G
+ F V C A F
+ G A M A T
+ G A M A T G
+ G C F E F
+ G C F E F Y
+ G C F E F Y H
+ G F L D I
+ G I D
+ G L F V
+ G L F V C
+ G N G C F E F
+ G N G C F E F Y
+ G N G C F E F Y H
+ G N S Y
+ G R T G
+ G S T L P
+ G S Y F
+ G V F E
+ I G N G C
+ I I R M
+ I L A I Y
+ I M A
+ I V P S F
+ I V P S F D
+ I W T Y
+ K A A S
+ K D C L F K D W
+ K E I G
+ K E I G N
+ K E I G N G
+ K K V D D
+ K K V D D G
+ K K V D D G F
+ L D I W
+ L D I W T
+ L D I W T Y
+ L E A Y F K D C L
+ L F K D W E
+ L F V C A
+ L K N N
+ L K N N A
+ L N K K V D D
+ L N K K V D D G
+ L N K K V D D G F
+ L P G F
+ L S A L
+ L S K S
+ L T G R
+ L Y D K
+ M C T E L K
+ M C T E L K L
+ M L Q
+ N A K E
+ N A K E I
+ N G A M
+ N G A M A
+ N G C F E F
+ N G C F E F Y
+ N G C F E F Y H
+ N K K V D D
+ N K K V D D G
+ N K K V D D G F
+ N L N K K V D D
+ N L N K K V D D G
+ N L N K K V D D G F
+ N L P F
+ N N A K E
+ N N A K E I
+ N P G N
+ N P G N A
+ N P G N A E
+ N Q T
+ N T E G
+ P E L T
+ P G N A
+ P G N A E
+ P H P N
+ P H P N I
+ P I V P S
+ P T S
+ P T S G
+ P T S G D
+ P T S G D V
+ Q N P
+ Q Q Q Q Q Q Q
+ R G L F V
+ R G L F V C
+ R G R T
+ R G V Q
+ R S G A
+ R S G A A
+ S A D A
+ S F D M
+ S F D M S
+ S F D M S N
+ S G A A
+ S N G S L
+ S N G S L Q
+ S T T D L E A
+ S Y F F
+ S Y K I
+ T D L E A Y F K
+ T E L K
+ T E L K L
+ T G R G
+ T I K D
+ T N P
+ T S G D
+ T S G D V
+ T T D L E A Y
+ V C A F S
+ V F E L
+ V K L E
+ V P H
+ V P S F
+ V P S F D
+ W P D
+ Y F K D C L F K D
+ Y L K G
+ A A F N
+ A E F E
+ A E F E D
+ A F S S
+ A F S S A
+ A G E A
+ A I S A L
+ A I Y S T
+ A I Y S T V
+ A I Y S T V A
+ A I Y S T V A S
+ A I Y S T V A S S
+ A K E I G
+ A K E I G N
+ A K E I G N G
+ A M A T G W
+ A S P I V
+ A S P I V P
+ A V G K
+ A V G K E
+ A V G K E F
+ C A F S S
+ C A F S S A
+ C L F K D W E
+ C R T F
+ C V T V
+ C V T V M
+ C V T V M A
+ D C L F K D W E
+ D D G F L
+ D D G F L D
+ D D G F L D I
+ D F D R
+ D G F L D I W
+ D G F L D I W T
+ D G F L D I W T Y
+ D I W T Y N
+ D K E E
+ D L E A Y F K D C
+ D N G Y
+ D R D
+ D R T
+ D R T T
+ D V I P
+ D W E E
+ E C R T
+ E C R T F
+ E F E D
+ E G R T
+ E G R T S
+ E G S Y F
+ E G S Y F F
+ E I G N G C F
+ E I G N G C F E
+ E I I R
+ E I I R M
+ E I R R
+ E I R R I
+ E K A A S P
+ E L S D
+ E N L N K K V D D
+ E N L N K K V D D G
+ E N L N K K V D D G F
+ E T A G A
+ E T A G A R
+ F D M S N E
+ F K D C L F K D W
+ F L D I W
+ F L D I W T
+ F L D I W T Y
+ F T A V G K
+ F T A V G K E
+ F T A V G K E F
+ F V C A F S
+ F V D I
+ F V Q H
+ G A M A T G W
+ G C I
+ G C I I
+ G E A R
+ G E V Q
+ G F L D I W
+ G F L D I W T
+ G F L D I W T Y
+ G I S G
+ G I S G P
+ G K E F
+ G L F V C A
+ G R G V
+ G R G V F
+ G R G V F E
+ G R T S
+ G S N R
+ G S N R P
+ G S N R P W
+ G S T L P R
+ G S Y F F
+ G V F E L
+ G Y D F
+ H G S N
+ I E E V
+ I E E V A
+ I G I S
+ I G I S G
+ I G I S G P
+ I G N G C F
+ I G N G C F E
+ I I R M M
+ I K D L
+ I L Y D
+ I L Y D K
+ I M A A
+ I M A A F
+ I M S
+ I P T S
+ I P T S G
+ I P T S G D
+ I P T S G D V
+ I R M M
+ I S G P
+ I S L M
+ I V P S F D M
+ I V P S F D M S
+ I V P S F D M S N
+ I W T Y N
+ K A A S P
+ K D T N
+ K D W E E
+ K I C
+ K L S K
+ K N L Y
+ K N N A K
+ K N N A K E
+ K N N A K E I
+ K P S L
+ K S W
+ K W M
+ L D C I
+ L D C I R
+ L D C I R P
+ L D I W T Y N
+ L E A Y F K D C L F
+ L E C R
+ L E C R T
+ L E C R T F
+ L E L R
+ L E V V
+ L F V C A F
+ L K N N A K
+ L K N N A K E
+ L K N N A K E I
+ L P R R S
+ L P R R S G
+ L R G L F
+ L R G L F V
+ L R G L F V C
+ L T G L D
+ L T G L D C
+ L V G V
+ L Y D K E
+ M A A F N
+ M C S N G S
+ M C S N G S L
+ M C S N G S L Q
+ M S C
+ M S C P
+ M S N E G
+ M S N E G S
+ M S T T D L E A
+ N A E F E
+ N A E F E D
+ N A K E I G
+ N A K E I G N
+ N A K E I G N G
+ N A Q R
+ N A Q R F
+ N A Q R F G
+ N A Q R F G I
+ N E G S
+ N G A M A T
+ N G A M A T G
+ N I T E
+ N N A K E I G
+ N N A K E I G N
+ N N A K E I G N G
+ N R P W
+ N T E G R
+ P E L T G
+ P H P N I E
+ P H P N I E E
+ P I V P S F
+ P I V P S F D
+ P K K T
+ P P G S
+ P R R S
+ P R R S G
+ P S F D M
+ P S F D M S
+ P S F D M S N
+ P W V
+ P W V S
+ P W V S F
+ Q C R
+ Q F T A V G K
+ Q F T A V G K E
+ Q F T A V G K E F
+ Q H P
+ Q H P E
+ Q I L A I
+ Q I L A I Y
+ Q L K N N
+ Q L K N N A
+ Q R T R
+ Q R T R A
+ R G L F V C A
+ R G R T G
+ R G V F
+ R G V F E
+ R I I T
+ R I W
+ R K L Q
+ R L R A
+ R L R A Y
+ R N P G N
+ R N P G N A
+ R N P G N A E
+ R P W V
+ R P W V S
+ R P W V S F
+ R R G R T
+ R R G R T G
+ R R S G
+ R S G A A G
+ R T N
+ S A M S T T D L E
+ S D M R
+ S F D M S N E
+ S F V Q
+ S G A A G
+ S G G P
+ S G Y S
+ S L D L
+ S L F G
+ S L R G
+ S L R G L
+ S N E G
+ S N E G S
+ S N G T
+ S N R P
+ S N R P W
+ S P I V P
+ S P Y R
+ S Q L K
+ S Q Q Q
+ S S T L E L
+ S S T L E L R
+ S T L E L
+ S T L E L R
+ S T L P R
+ S Y F F G
+ S Y P K
+ T A V G K
+ T A V G K E
+ T A V G K E F
+ T D A L
+ T D L E A Y F K D
+ T E G R T
+ T E G R T S
+ T F T A
+ T G L D C
+ T G Q
+ T I M A
+ T I M A A
+ T I M A A F
+ T L E L
+ T L E L R
+ T L P R
+ T R A L V
+ T T D L E A Y F
+ T T T L
+ T V W A I
+ T Y Q R
+ T Y Q R T
+ T Y Q R T R
+ T Y Q R T R A
+ V C A F S S
+ V C A F S S A
+ V D D G F L
+ V D D G F L D
+ V D D G F L D I
+ V F V G
+ V G K E F
+ V H Q
+ V H T
+ V L L C
+ V L V V
+ V N G S
+ V P H P
+ V P S F D M
+ V P S F D M S
+ V P S F D M S N
+ V Q H
+ V T V M
+ V T V M A
+ V W A I
+ W A I S
+ W I V
+ W Y E L T
+ W Y E L T P
+ Y E L T
+ Y E L T P
+ Y F F G
+ Y M Y
+ Y P K L
+ Y Q R
+ Y Q R T
+ Y Q R T R
+ Y Q R T R A
+ Y R G L D V S V
+ Y R G L D V S V I
+ Y S D
+ Y S G S
+ Y T N
+ Y T N V
+ Y V F V
+ Y V F V G
+ A A F N G
+ A A F N G N
+ A A G A A V
+ A A G L
+ A A N E
+ A A S P I
+ A A S P I V
+ A A S P I V P
+ A A V K G V G T M
+ A D V I
+ A E F E D L
+ A E T A
+ A E T A G
+ A F N G
+ A F N G N
+ A G A R L
+ A G A R L V
+ A G C A
+ A G C A W
+ A G C A W Y
+ A G F I E G
+ A G F I E G G
+ A I I Q
+ A I I Q K
+ A K K A
+ A K L L
+ A L S T
+ A L V C
+ A M S T T D L E A
+ A N G A M
+ A N G A M A
+ A N N S T D T V
+ A P F L
+ A Q Q
+ A R D R
+ A R L V
+ A R P N
+ A S G Y
+ A S G Y D
+ A S G Y D F
+ A S P I V P S
+ A S R L
+ A S R L A
+ A T A T P
+ A T A T P P
+ A T Y Q
+ A T Y Q R
+ A T Y Q R T
+ A T Y Q R T R
+ A T Y Q R T R A
+ A V A S
+ A V D F
+ A V K G V G T M
+ A V L L
+ A W Y E
+ A W Y E L
+ A Y F K D C L F K D
+ C A W
+ C A W Y
+ C I I T
+ C I I T S
+ C I I T S L
+ C I I T S L T
+ C R T F F
+ C R T F F L
+ C S L M
+ C S N G S L Q C
+ C S N G S L Q C R
+ C S N G S L Q C R I
+ C T E L K L S
+ C T E L K L S D
+ C T F T
+ C T F T A
+ C T V W
+ C T V W A
+ C T V W A I
+ C Y D A G C
+ C Y D A G C A
+ C Y D A G C A W
+ C Y D A G C A W Y
+ D A A G
+ D A G C A
+ D A G C A W
+ D A G C A W Y
+ D A I I
+ D A I I Q
+ D A I I Q K
+ D A T Y
+ D A T Y Q
+ D A T Y Q R
+ D A T Y Q R T
+ D A T Y Q R T R
+ D A T Y Q R T R A
+ D D G F L D I W
+ D D G F L D I W T
+ D D G F L D I W T Y
+ D E K A A
+ D E K A A S
+ D E K A A S P
+ D F I D
+ D G F L D I W T Y N
+ D G V K L
+ D K C
+ D K E E I
+ D K E E I R
+ D K E E I R R
+ D K E E I R R I
+ D K H S N G
+ D K N Q
+ D K N Q V
+ D K W
+ D L E A Y F K D C L
+ D L E A Y F K D C L F
+ D L Q K
+ D M R T
+ D M S N E G
+ D M S N E G S
+ D N P R
+ D P K K
+ D Q D L
+ D Q E P
+ D Q E P D
+ D Q E P D A
+ D R S P
+ D R S P Y
+ D R S P Y R
+ D R T T I
+ D R T T I M
+ D R T T I M A
+ D R T T I M A A
+ D R T T I M A A F
+ D T V D
+ D T V D T
+ D V D C
+ D V I P V
+ D V V V V A
+ E A S D
+ E A Y F K D C L F K
+ E C R T F F
+ E C R T F F L
+ E C Y D A G C
+ E C Y D A G C A
+ E C Y D A G C A W
+ E C Y D A G C A W Y
+ E D I T
+ E E I R R
+ E E I R R I
+ E E V A L
+ E E V A L S
+ E F E D L
+ E G R L I Q
+ E G R L I Q N
+ E G R T S D
+ E G R T S D M
+ E G R T S D M R
+ E G S Y F F G
+ E I G N G C F E F
+ E I G N G C F E F Y
+ E I G N G C F E F Y H
+ E I I R M M
+ E I R R I W
+ E K A A S P I
+ E K A A S P I V
+ E K A A S P I V P
+ E K I T
+ E L I L
+ E L I L Y
+ E L K L S
+ E L K L S D
+ E L T G L
+ E L T G L D
+ E L T G L D C
+ E L T P A
+ E L T P A E
+ E L T P A E T
+ E M R
+ E P D A
+ E Q S C
+ E T A G A R L
+ E T A G A R L V
+ E V A L S
+ E V P S
+ F D R T
+ F D R T T
+ F E D L T
+ F E D L T F
+ F E F Y H K C D
+ F E L S
+ F E L S D
+ F F G D
+ F F G D N
+ F G D N P
+ F G D N P R
+ F G G M
+ F G G M S
+ F G G M S W
+ F I D Y
+ F I D Y E
+ F I D Y E E
+ F K D W E E
+ F L A T
+ F L D I W T Y N
+ F L P L
+ F N G N
+ F Q G R
+ F Q G R G
+ F Q G R G V
+ F Q G R G V F
+ F Q G R G V F E
+ F R S L
+ F S Q
+ F S S A G
+ F T Y
+ F V C A F S S
+ F V C A F S S A
+ F V Q H P
+ F V Q H P E
+ F W M C S N G S
+ F W M C S N G S L
+ F W M C S N G S L Q
+ G A A G A
+ G A A G A A
+ G A A G A A V
+ G A R L V
+ G C A W
+ G C A W Y
+ G C F E F Y H K
+ G C F E F Y H K C
+ G D F I
+ G D F I D
+ G D N A
+ G D N P
+ G D N P R
+ G D V F
+ G D V F V
+ G D V F V I
+ G D V V V V A
+ G E V P
+ G E V P S
+ G F L D I W T Y N
+ G F Y R
+ G G A F
+ G G M S
+ G G M S W
+ G G P L
+ G G P L L
+ G I E D
+ G I E D S
+ G I F G
+ G I S G P D
+ G I Y R
+ G K W M
+ G L D C I
+ G L D C I R
+ G L D C I R P
+ G L F V C A F
+ G L L G C
+ G L L G C I
+ G L L G C I I
+ G L N I
+ G L T V
+ G M S W
+ G N A E F
+ G N A E F E
+ G N A E F E D
+ G N G C F E F Y H K
+ G N G C F E F Y H K C
+ G N S Y P
+ G N S Y P K
+ G N T E
+ G N T E G
+ G N T N
+ G N T N Q
+ G N T N Q Q
+ G P L L C
+ G P L L C P
+ G Q G
+ G R D K
+ G R G V F E L
+ G R I A N
+ G R L I Q
+ G R L I Q N
+ G R M
+ G R M N
+ G R M N Y
+ G R T G R
+ G R T G R G
+ G R T K
+ G R T S D
+ G R T S D M
+ G R T S D M R
+ G S A A
+ G S F V Q
+ G S K G D
+ G S K G D V
+ G S L Q C
+ G S L Q C R
+ G S L Q C R I
+ G S N R P W V
+ G S N R P W V S
+ G S N R P W V S F
+ G S S G
+ G S S G G
+ G S S G G P
+ G S T L P R R
+ G S T L P R R S
+ G S T L P R R S G
+ G S Y F F G
+ G T A L
+ G T V L
+ G T V L D
+ G T V L D Q
+ G T V L D Q A
+ G T W
+ G V G T M
+ G V K L
+ G V L I
+ G Y D F E
+ G Y S G S
+ G Y S L V
+ G Y S L V G
+ H A D
+ H A D V
+ H A D V I
+ H A N N S T D T V
+ H G S N R
+ H G S N R P
+ H G S N R P W
+ H P E L T
+ H P E L T G
+ H P N I E E V
+ H P N I E E V A
+ H Q N E Q G S G
+ H Q N E Q G S G Y
+ H Q Q
+ H Q R
+ I A G F I E G
+ I A G F I E G G
+ I D Y E
+ I D Y E E
+ I E D S
+ I E E V A L
+ I E E V A L S
+ I G I S G P D
+ I G N G C F E F
+ I G N G C F E F Y
+ I G N G C F E F Y H
+ I G N I
+ I G R T K
+ I H T
+ I I T R
+ I I T R I
+ I I T S L
+ I I T S L T
+ I L A I Y S
+ I L A I Y S T
+ I L A I Y S T V
+ I L A I Y S T V A
+ I L A I Y S T V A S
+ I L A I Y S T V A S S
+ I L Y D K E
+ I M A A F N
+ I N D K
+ I P G
+ I P V R R
+ I Q K K
+ I Q M C
+ I Q M C T
+ I Q M C T E
+ I Q M C T E L
+ I R R I W
+ I S G P D
+ I S I W
+ I T H
+ I T R I
+ I T S L
+ I T S L T
+ I V P S F D M S N E
+ K A A S P I
+ K A A S P I V
+ K A A S P I V P
+ K D C L F K D W E
+ K D R S
+ K E E I R
+ K E E I R R
+ K E E I R R I
+ K E F N
+ K E I G N G C
+ K G D V
+ K G S S G
+ K G S S G G
+ K G S S G G P
+ K G V G T M
+ K H S N G
+ K I T H
+ K L E S
+ K L N R E
+ K L Q T
+ K N N A K E I G
+ K N N A K E I G N
+ K N N A K E I G N G
+ K T G G
+ K T G G P
+ K V D D G F L
+ K V D D G F L D
+ K V D D G F L D I
+ K V S L
+ K W M R
+ K W M R E
+ L A I Y S
+ L A I Y S T
+ L A I Y S T V
+ L A I Y S T V A
+ L A I Y S T V A S
+ L A I Y S T V A S S
+ L D A I I
+ L D A I I Q
+ L D A I I Q K
+ L D Q A
+ L E A Y F K D C L F K
+ L E C R T F F
+ L E C R T F F L
+ L F G G M
+ L F G G M S
+ L F G G M S W
+ L F K D W E E
+ L F V C A F S
+ L G C
+ L G C I
+ L G C I I
+ L G G V
+ L G N Q
+ L H K R T L G L S
+ L I L Q I
+ L K D T
+ L K L S D
+ L K N N A K E I G
+ L K N N A K E I G N
+ L K N N A K E I G N G
+ L K Q V
+ L L C P
+ L L G C
+ L L G C I
+ L L G C I I
+ L M L Q
+ L M L Q I
+ L M Q G
+ L M Q G S
+ L M Q G S T
+ L M Q G S T L
+ L M Q G S T L P
+ L M S C
+ L M S C P
+ L N A N G A
+ L N R E
+ L P F D
+ L P G F Y
+ L P G F Y R
+ L P R R S G A
+ L P R R S G A A
+ L Q C R
+ L Q C R I
+ L Q I G N
+ L Q I G N I
+ L Q T R
+ L R G L F V C A
+ L S D E
+ L S D Y
+ L S D Y E
+ L T G L D C I
+ L T G L D C I R
+ L T G L D C I R P
+ L T G R D
+ L T I G I
+ L T I G I S
+ L T I G I S G
+ L T I G I S G P
+ L T P A E
+ L T P A E T
+ L V D C
+ L V T R H
+ L Y D K E E
+ L Y D K E E I
+ L Y D K E E I R
+ L Y D K E E I R R
+ L Y D K E E I R R I
+ L Y Q N
+ M A A F N G
+ M A A F N G N
+ M C S L
+ M C S L M
+ M C T E L K L S
+ M C T E L K L S D
+ M L Q I
+ M N Y Y
+ M N Y Y W
+ M N Y Y W T
+ M Q G S
+ M Q G S T
+ M Q G S T L
+ M Q G S T L P
+ M S G
+ M S N E G S Y
+ M S N E G S Y F
+ M S N E G S Y F F
+ N A E E
+ N A E F E D L
+ N A N G A
+ N A Q R F G I S
+ N A Q R F G I S N
+ N A Q R F G I S N Y
+ N A Q R F G I S N Y C
+ N A Q R F G I S N Y C Q
+ N C G
+ N E G S Y
+ N E G S Y F
+ N E G S Y F F
+ N E Q G S G
+ N E Q G S G Y
+ N G A M A T G W
+ N G C F E F Y H K
+ N G C F E F Y H K C
+ N G K W
+ N G K W M
+ N G S L Q C
+ N G S L Q C R
+ N G S L Q C R I
+ N I E E V
+ N I E E V A
+ N L N S
+ N N S T D T V
+ N P G N A E F
+ N P G N A E F E
+ N P G N A E F E D
+ N R P W V
+ N R P W V S
+ N R P W V S F
+ N S T D T V
+ N S Y P
+ N S Y P K
+ N T E G R T
+ N T E G R T S
+ N T N Q
+ N T N Q Q
+ N W H
+ N W H G
+ N W H G S
+ N W H G S N
+ P E L T G L
+ P E L T G L D
+ P E L T G L D C
+ P G D F
+ P G D F I
+ P G D F I D
+ P G F Y
+ P G F Y R
+ P G N A E F
+ P G N A E F E
+ P G N A E F E D
+ P I V P S F D M
+ P I V P S F D M S
+ P I V P S F D M S N
+ P K L S
+ P K L S K
+ P L L C P
+ P L S Q
+ P N A Q
+ P N A Q R
+ P N A Q R F
+ P N A Q R F G
+ P N A Q R F G I
+ P N I E E V
+ P N I E E V A
+ P R G K
+ P R G K L
+ P R R S G A
+ P R R S G A A
+ P S F D M S N E
+ P S P Y
+ P S P Y N
+ P S S D
+ P T S G D V V
+ P T S G D V V V
+ P T S G D V V V V
+ P V R R
+ P W Q S
+ P W V S F N
+ P Y R T
+ Q A E T
+ Q A E T A
+ Q A E T A G
+ Q A V L
+ Q C R I
+ Q E L V
+ Q E P D
+ Q E P D A
+ Q G R G
+ Q G R G V
+ Q G R G V F
+ Q G R G V F E
+ Q G S T L
+ Q G S T L P
+ Q I G N I
+ Q L K N N A K
+ Q L K N N A K E
+ Q L K N N A K E I
+ Q L R
+ Q M C
+ Q M C T
+ Q M C T E
+ Q M C T E L
+ Q N E Q G S G
+ Q N E Q G S G Y
+ Q Q Q Q Q Q Q Q
+ Q Q T R G
+ Q Q T R G L
+ Q Q T R G L L
+ Q R N L
+ Q R R G
+ Q R R G R
+ Q R R G R T
+ Q R R G R T G
+ Q R T R A L
+ Q R T R A L V
+ Q T R G
+ Q T R G L
+ Q T R G L L
+ R A L V C
+ R A R A L
+ R D I
+ R D K N Q
+ R D K N Q V
+ R D R S
+ R E L I L
+ R E L I L Y
+ R G L F V C A F
+ R G L L
+ R G L S
+ R G R I
+ R G V F E L
+ R H A D
+ R H A D V
+ R H A D V I
+ R H Y
+ R I A N
+ R M N
+ R M N Y
+ R N M
+ R P N A
+ R P W V S F N
+ R R G D S
+ R R I W
+ R R R G D
+ R R R G D S
+ R R S G A
+ R R S G A A
+ R R V N
+ R R V N G
+ R S G A A G A
+ R S G A A G A A
+ R S G A A G A A V
+ R S P Y
+ R S P Y R
+ R T G R
+ R T G R G
+ R T K S
+ R T R A L
+ R T R A L V
+ R T S D M
+ R T S D M R
+ R T S L
+ R T T I
+ R T T I M
+ R T T I M A
+ R T T I M A A
+ R T T I M A A F
+ R V K L
+ R V L A
+ R V N G
+ R Y L A
+ S D L Y
+ S E E A
+ S F Q G R
+ S F Q G R G
+ S F Q G R G V
+ S F Q G R G V F
+ S F Q G R G V F E
+ S F V Q H
+ S G A A G A
+ S G A A G A A
+ S G A A G A A V
+ S G D V V V
+ S G D V V V V
+ S G G N
+ S G S F
+ S G S F V
+ S G S F V Q
+ S G Y D
+ S G Y D F
+ S G Y S G
+ S G Y S G S
+ S I W
+ S K G D
+ S K G D V
+ S K I S
+ S L F G G
+ S L P G F
+ S L P G F Y
+ S L P G F Y R
+ S L Q C
+ S L Q C R
+ S L Q C R I
+ S L R G L F
+ S L R G L F V
+ S L R G L F V C
+ S L T G
+ S L T G R
+ S L T G R D
+ S L V G
+ S N E G S Y
+ S N E G S Y F
+ S N E G S Y F F
+ S N G A
+ S N G S L Q C
+ S N G S L Q C R
+ S N G S L Q C R I
+ S N R P W V
+ S N R P W V S
+ S N R P W V S F
+ S P I V P S
+ S P Y N
+ S Q L K N
+ S Q L K N N
+ S Q L K N N A
+ S R L A
+ S S G G
+ S S G G P
+ S S L P G F
+ S S L P G F Y
+ S S L P G F Y R
+ S T D T V
+ S T L P R R
+ S T L P R R S
+ S T L P R R S G
+ S T T D L E A Y
+ S V V T
+ S Y F F G D
+ S Y F F G D N
+ S Y P K L
+ T A A I
+ T A G A R L
+ T A G A R L V
+ T A L E
+ T A T Y
+ T A T Y A
+ T D A L M
+ T D A L M T
+ T D L E A Y F K D C
+ T D T V
+ T E G R T S D
+ T E G R T S D M
+ T E G R T S D M R
+ T E I I
+ T E I I R
+ T E I I R M
+ T E L K L S
+ T E L K L S D
+ T G G P I
+ T G L D C I
+ T G L D C I R
+ T G L D C I R P
+ T G R D K
+ T G W A
+ T I G I
+ T I G I S
+ T I G I S G
+ T I G I S G P
+ T I M A A F N
+ T L P R R
+ T L P R R S
+ T L P R R S G
+ T P A E
+ T P A E T
+ T P P G S
+ T R G L
+ T R G L L
+ T R G V Q
+ T R H A
+ T R H A D
+ T R H A D V
+ T R H A D V I
+ T S D M
+ T S D M R
+ T S G D V V
+ T S G D V V V
+ T S G D V V V V
+ T T D L E A Y F K
+ T T I M A
+ T T I M A A
+ T T I M A A F
+ T V D T
+ T V L D Q
+ T V L D Q A
+ T V P H
+ T V P H P
+ T V W A I S
+ T V W A I S A
+ T V W A I S A L
+ T Y Q R T R A L
+ T Y Q R T R A L V
+ V A R E
+ V C M
+ V C T V
+ V C T V W
+ V C T V W A
+ V C T V W A I
+ V D C F
+ V D D G F L D I W
+ V D D G F L D I W T
+ V D D G F L D I W T Y
+ V D G V
+ V D Q D
+ V F E L S
+ V F E L S D
+ V G T M
+ V I P T
+ V I P V R
+ V I P V R R
+ V K G V G T M
+ V K L E S
+ V K L T
+ V K N L
+ V L D A
+ V L D A I
+ V L D A I I
+ V L D A I I Q
+ V L D A I I Q K
+ V L D Q
+ V L D Q A
+ V L Q Q
+ V N G K
+ V N G K W
+ V N G K W M
+ V P H P N
+ V P H P N I
+ V P S F D M S N E
+ V Q H P
+ V Q H P E
+ V R L R A
+ V R L R A Y
+ V R R R
+ V R R R G
+ V R R R G D
+ V R R R G D S
+ V S F Q G R
+ V S F Q G R G
+ V S F Q G R G V
+ V S F Q G R G V F
+ V S F Q G R G V F E
+ V T N
+ V T R H
+ V V V A
+ V V V V A
+ V W A I S
+ V W A I S A
+ V W A I S A L
+ W A I S A
+ W A I S A L
+ W H G S
+ W H G S N
+ W I G R T
+ W I G R T K
+ W L T I
+ W L T I G
+ W L T I G I
+ W L T I G I S
+ W L T I G I S G
+ W L T I G I S G P
+ W M C S N G S
+ W M C S N G S L
+ W M C S N G S L Q
+ W M R E
+ W Q S
+ W S G Y S
+ W Y E L T P A
+ W Y E L T P A E
+ W Y E L T P A E T
+ Y D A G C
+ Y D A G C A
+ Y D A G C A W
+ Y D A G C A W Y
+ Y D F E
+ Y D K E E
+ Y D K E E I
+ Y D K E E I R
+ Y D K E E I R R
+ Y D K E E I R R I
+ Y E G R L I Q
+ Y E G R L I Q N
+ Y E L T P A
+ Y E L T P A E
+ Y E L T P A E T
+ Y F F G D
+ Y F F G D N
+ Y F K D C L F K D W
+ Y I Q M
+ Y I Q M C
+ Y I Q M C T
+ Y I Q M C T E
+ Y I Q M C T E L
+ Y K I F
+ Y L D
+ Y L K G S
+ Y L N A N G A
+ Y P K L S
+ Y P K L S K
+ Y Q I L
+ Y Q I L A
+ Y Q I L A I
+ Y Q I L A I Y
+ Y Q R T R A L
+ Y Q R T R A L V
+ Y R C
+ Y R G L D V S V I P
+ Y R R V
+ Y R R V N
+ Y R R V N G
+ Y S L V
+ Y S L V G
+ Y W A
+ Y W I
+ Y Y L N A N G A
